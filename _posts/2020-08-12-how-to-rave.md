@@ -1,3 +1,10 @@
+---
+layout: page
+title: "How to rave"
+date: 2020-08-12 08:00:00 -0000
+categories: music
+---
+
 # How to organize your own rave: a guide
 
 About 4 years ago, my friend Edouard and me decided we really wanted to start
@@ -107,7 +114,7 @@ try at a rave.
 
 I would always recommend having an external mixer, and not rely only on the mixer
 on a controller like a Traktor S4. The reason you do not want to rely on a mixer
-of a controller, is because you basically put all the pressure on your soundcard. 
+of a controller, is because you basically put all the pressure on your soundcard.
 And when you start to have a lot of different sound sources, both analog (vinyls)
 and digitals (CDJ's, controllers), while playing loud, it can lead to problems like
 quiet output, skips, lags and freezes.
@@ -142,7 +149,7 @@ For the media players, I use:
   By far the best cash to value on the market, being 780 euros for a 4-channel controller,
   with a mixer, and controls for filter and effects that will remind you of the DJM 800.
   It's packed with amazing features, and the best beginner setup ever. You can plug
-  the master output to one of the channel of your external mixer, and off you go. 
+  the master output to one of the channel of your external mixer, and off you go.
   One could even think of a setup without external mixer, and plugging directly
   the output of the S4 to the soundsystem. If you really want to go portable,
   or don't have the money for the mixing table, you could, but as already mentionned
