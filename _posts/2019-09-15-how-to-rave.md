@@ -1,11 +1,9 @@
 ---
 layout: post
-title: How to create your own rave
+title: how to create your own rave
 date: 2019-09-15 08:00:00 -0000
 description: how to organise your own small scale rave with your friends
 ---
-
-# How to organize your own rave: a guide
 
 I have been organizing parties for close to 5 years now, both indoors and outdoors, mostly private events for my friends with roughly 50 people. In the process, I had to ponder about a lot of different choices: the soundsystem (both for the public but also the monitoring for the DJ's), the setup for the DJ's (what mixing table, what players, what software), the location, the power supply, the funding, etc.
 
