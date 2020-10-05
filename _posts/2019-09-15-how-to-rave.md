@@ -1,8 +1,8 @@
 ---
 layout: post
-title: how to create your own rave
+title: how to organize your own rave
 date: 2019-09-15 08:00:00 -0000
-description: how to organise your own small scale rave with your friends
+description: how to organize your own small scale rave with your friends
 ---
 
 I have been organizing parties for close to 5 years now, both indoors and outdoors, mostly private events for my friends with roughly 50 people. In the process, I had to ponder about a lot of different choices: the soundsystem (both for the public but also the monitoring for the DJ's), the setup for the DJ's (what mixing table, what players, what software), the location, the power supply, the funding, etc.
@@ -101,6 +101,13 @@ In this section we will go over the basics of:
 ### 1.1 What speakers to buy and why?
 
 A soundsystem is usually defined by its watt consumption, since it basically correlates one to one as how loud it will get. So each component of a soundsystem will be chosen for its power usage (measured in kW) and its specific range of frequencies it reproduces. By that I mean that a typical soundsystem comprises 2 types of speakers: 2 or more regular loudspeakers which produces frequencies from 50 Hz to 24,000Hz (the entire audible spectrum by the human ear), and 1 or more subwoofers which focuses on the range 50 to 100 Hz, for the bass.
+
+<!---
+![frequency-range](https://cdn.shopify.com/s/files/1/0153/8863/files/Headphone-Zone-Blog-Audiophile-Guide-Bass-1.jpg?3742942941071725477){:class="img-responsive"}
+-->
+<div style="text-align: left;"> <img src="https://cdn.shopify.com/s/files/1/0153/8863/files/Headphone-Zone-Blog-Audiophile-Guide-Bass-1.jpg?3742942941071725477" />  </div>
+
+
 
 TODO: insert a graph of the frequency spectrum to explain low / mid / highs
 
