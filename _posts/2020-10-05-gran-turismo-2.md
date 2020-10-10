@@ -35,6 +35,7 @@ This time around, I challenged myself not to use overpowered cars like I used to
 As I wanted to back up my claim with data, I went through the effort of scraping the car list from [GT wiki website](https://gran-turismo.fandom.com/wiki/Gran_Turismo_2/Car_List), clean it up and make it usable for data analysis. I hereby present you [GT scrape](https://github.com/naifrec/gt-scrape), a small python project I built which uses beautifulsoup for scraping, a lot of regex magic for cleaning up, and finally pandas to process and analyze data. I am hosting [the cleaned up data on dropbox](https://www.dropbox.com/sh/aghqvta3wl0adri/AABQc85oMTnrTcDpycBZzsg4a?dl=0) if you want to have a go at it yourself. For now, using this data, we are going to address 3 of my claims:
 1. most cars are Japanese
 2. most prize cars are Japenese
-3. most of the best cars are Japanese (and we will take the time to define what "best" means)
+3. most of the best cars are Japanese (and we will take the time to define what "best" means
+4. most cars are from the 90's
 
-We will also plot the timeline showing most cars are from the 90's
+For the first two claim, I made the following figure, [using this code](https://github.com/naifrec/gt-scrape/blob/main/gt/plots/car_distribution.py). It shows, for each country of origin, the number of available cars in the game (in pink), and within them the subset of cars that can be won as prize during race events (in brown). Note that I used a log-scale on the x-axis, otherwise it would have been impossible to see that you can actually win at least one car from each country.
