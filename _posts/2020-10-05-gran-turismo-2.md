@@ -42,7 +42,7 @@ For the first two claim, I made the following figure, [using this code](https://
 
 <div class="row mt-3" >
     <div class="col-sm mt-3 mt-md-0" style="text-align: center;">
-        <img class="img-fluid rounded" src="{{ site.baseurl }}/assets/img/distribution-of-cars-log.png">
+        <img class="img-fluid rounded" src="{{ site.baseurl }}/assets/img/distribution-of-cars-log.png" width="65%">
     </div>
 </div>
 
@@ -77,38 +77,13 @@ print(100 * data_prize_cars['# cars featured'] / data_prize_cars['# cars feature
 
 {% endhighlight %}
 
-In summary, **7 cars out of 10 in the game are Japanese**, and if you only look at **prize cars**, then **8 out of 10** are Japanese! I wonder how many Skylines are within these hehe, an exercise left for the reader.
+In summary, **7 cars out of 10 in the game are Japanese**, and if you only look at **prize cars**, then **8 out of 10** are Japanese! I wonder how many Skylines are within these hehe, an exercise left to the reader.
 
 ***
 
 
-Now let's tackle my third claim that *most of the best cars are Japanese*. It is of course impossible to find one single metric which can define how great a car is, as none will reflect how well the car is tuned or handles. One car could have the highest power, yet suck because too heavy or tuned poorly, as in too soft suspensions, too long gear ratios, etc. For this exercise though, we will use one metric which is a good predictor of a car's performance (assuming handling and tuning): power to weight ratio (kg per brake horse power). The lower this number is, the more powerful is the car, as it literally counts how much mass does each horse power have to move, lower meaning it will be easier to get that car moving.
+Now let's tackle my third claim that *most of the best cars are Japanese*. It is of course impossible to find one single metric which can define how great a car is, as none will reflect how well the car is tuned or handles. One car could have the highest power, yet suck because too heavy or tuned poorly, as in too soft suspensions, too long gear ratios, etc. For this exercise though, we will use one metric which is a good predictor of a car's performance (assuming handling and tuning): power to weight ratio (kg per brake horse power). The lower this number is, the more powerful is the car, as it literally counts how much mass does each horse power have to move, lower meaning it will be easier to get that car moving. You can find [here](https://github.com/naifrec/gt-scrape/blob/main/gt/plots/top_cars.py) the code used to obtain the table and images below.
 
-{% highlight python %}
-columns = ['Name', 'Max Power', 'Weight', 'Power/Weight Ratio']
-top = df.sort_values(by='Power/Weight Ratio').head(12)
-top = top.reset_index()
-top.drop('index', axis=1, inplace=True)
-top.index += 1
-with open('max-power.md', 'w') as handle:
-    top[columns].to_markdown(handle)
-
-fig, axes = plt.subplots(nrows=4, ncols=3, figsize=(12, 12))
-
-for n, (_, car) in enumerate(top.iterrows()):
-    i = n // 3
-    j = n % 3
-    ax = axes[i, j]
-
-    filepath = DATA_DIR / 'images' / car['ImagePath']
-    image = plt.imread(filepath)
-    ax.imshow(image)
-    ax.text(10, 30, f'{n+1}', color='white', size=24)
-    ax.axis('off')
-
-plt.tight_layout()
-plt.show()
-{% endhighlight %}
 
 |    | Name                               | Power (bhp) | Weight (kg) |   Power/Weight Ratio |
 |---:|:-----------------------------------|------------:|------------:|---------------------:|
@@ -139,3 +114,29 @@ If we forget about these two cars for a moment however, the rest of the ranking 
 
 Finally, interesting to note that it may be worth grinding for the gold in License B early in game, as you will be rewarded the 10th best car in the game, the Honda CR-X del Sol LM Edition.
 
+***
+
+Finally, let's visualize my last claim: *most cars are from the 90's*. While this is both obvious, and also an expected feature (nobody wants to race with only cars from the 60's), I found it interesting to see it drawn on a timeline. Note that many approximations had to be made, a lot of cars in the games did not have a manufacturing date, so I implemented an automated way to get a year from their in-game descriptions, which is not without bugs (see logic [here](https://github.com/naifrec/gt-scrape/blob/main/gt/table/scrape.py#L118-L136)). You can find the code used to create the timeline below [at this location](https://github.com/naifrec/gt-scrape/blob/main/gt/plots/car_timeline.py).
+
+<div class="row mt-3" >
+    <div class="col-sm mt-3 mt-md-0" style="text-align: center;">
+        <img class="img-fluid rounded" src="{{ site.baseurl }}/assets/img/timeline-of-cars.png" width="80%">
+    </div>
+</div>
+
+We can further summarize this timeline by computing the percentage of cars released in the 90's using the following code snippet:
+
+{% highlight python %}
+df = df[~df['Date'].isna()]
+df['Date'] = df['Date'].astype(np.int32)
+print(100 * ((df['Date'] >= 1990).sum() / len(df)))
+{% endhighlight %}
+
+From this computation comes out that **9 cars out of 10 are from the 90's**. The GT amateur would have a good grasp on this limitation, as for some race events in the games, this leaves for very few options (most notably the muscle car event, where you probably have to pick from 4-5 cars max).
+
+***
+
+This concludes my quick go at scraping, cleaning and analyzing the data from Gran Turismo 2. I hope this article was somewhat entertaining, and that you can yourself make use of the data I extracted from the Gran Turismo Wiki website to show some cool facts about the game! Not to leave you without one last track, here is one of my favorite remix from the Gran Turismo 2 soundtrack, with some crazy drum patterns... enjoy!
+
+<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/suB4gLaR6wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div style="text-align: center;margin-bottom: 25px"> Gran Turismo 2 Extended Score - Groove - Blowing Away</div>
