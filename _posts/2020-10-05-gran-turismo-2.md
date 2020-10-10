@@ -32,10 +32,110 @@ This time around, I challenged myself not to use overpowered cars like I used to
 
 ***
 
-As I wanted to back up my claim with data, I went through the effort of scraping the car list from [GT wiki website](https://gran-turismo.fandom.com/wiki/Gran_Turismo_2/Car_List), clean it up and make it usable for data analysis. I hereby present you [GT scrape](https://github.com/naifrec/gt-scrape), a small python project I built which uses beautifulsoup for scraping, a lot of regex magic for cleaning up, and finally pandas to process and analyze data. I am hosting [the cleaned up data on dropbox](https://www.dropbox.com/sh/aghqvta3wl0adri/AABQc85oMTnrTcDpycBZzsg4a?dl=0) if you want to have a go at it yourself. For now, using this data, we are going to address 3 of my claims:
+As I wanted to back up my claim with data, I went through the effort of scraping the car list from [GT wiki website](https://gran-turismo.fandom.com/wiki/Gran_Turismo_2/Car_List), clean it up and make it usable for data analysis. I hereby present you [GT scrape](https://github.com/naifrec/gt-scrape), a small python project I built which uses beautifulsoup for scraping, a lot of regex magic for cleaning up, and finally pandas to process and analyze data. I am hosting [the cleaned up data on dropbox](https://www.dropbox.com/sh/aghqvta3wl0adri/AABQc85oMTnrTcDpycBZzsg4a?dl=0) if you want to have a go at it yourself. For now, using this data, we are going to address 4 of my claims:
 1. most cars are Japanese
 2. most prize cars are Japenese
 3. most of the best cars are Japanese (and we will take the time to define what "best" means
 4. most cars are from the 90's
 
 For the first two claim, I made the following figure, [using this code](https://github.com/naifrec/gt-scrape/blob/main/gt/plots/car_distribution.py). It shows, for each country of origin, the number of available cars in the game (in pink), and within them the subset of cars that can be won as prize during race events (in brown). Note that I used a log-scale on the x-axis, otherwise it would have been impossible to see that you can actually win at least one car from each country.
+
+<div class="row mt-3" >
+    <div class="col-sm mt-3 mt-md-0" style="text-align: center;">
+        <img class="img-fluid rounded" src="{{ site.baseurl }}/assets/img/distribution-of-cars-log.png">
+    </div>
+</div>
+
+We can try and summarize these statistics, let's see how to compute the percentage of cars per country using the following code snippet:
+
+{% highlight python %}
+import pandas as pd
+
+from gt.paths import DATA_DIR
+
+
+# load the CSV data in a pandas DataFrame
+df = pd.read_csv(DATA_DIR / 'cars-clean-v2.csv', index_col=0)
+# count the number of car per country
+data_cars = df['Country'].value_counts().reset_index().rename(
+    {'index': 'Manufacturing Country',
+     'Country': '# cars featured',
+    },
+    axis=1
+)
+# count the number of prize car per country
+data_prize_cars = df[df['IsPrizeCar']]['Country'].value_counts().reset_index().rename(
+    {'index': 'Manufacturing Country',
+     'Country': '# cars featured',
+    },
+    axis=1,
+)
+# print percentages of cars per country
+print(100 * data_cars['# cars featured'] / data_cars['# cars featured'].sum())
+# print percentages of prize cars per country
+print(100 * data_prize_cars['# cars featured'] / data_prize_cars['# cars featured'].sum())
+
+{% endhighlight %}
+
+In summary, **7 cars out of 10 in the game are Japanese**, and if you only look at **prize cars**, then **8 out of 10** are Japanese! I wonder how many Skylines are within these hehe, an exercise left for the reader.
+
+***
+
+
+Now let's tackle my third claim that *most of the best cars are Japanese*. It is of course impossible to find one single metric which can define how great a car is, as none will reflect how well the car is tuned or handles. One car could have the highest power, yet suck because too heavy or tuned poorly, as in too soft suspensions, too long gear ratios, etc. For this exercise though, we will use one metric which is a good predictor of a car's performance (assuming handling and tuning): power to weight ratio (kg per brake horse power). The lower this number is, the more powerful is the car, as it literally counts how much mass does each horse power have to move, lower meaning it will be easier to get that car moving.
+
+{% highlight python %}
+columns = ['Name', 'Max Power', 'Weight', 'Power/Weight Ratio']
+top = df.sort_values(by='Power/Weight Ratio').head(12)
+top = top.reset_index()
+top.drop('index', axis=1, inplace=True)
+top.index += 1
+with open('max-power.md', 'w') as handle:
+    top[columns].to_markdown(handle)
+
+fig, axes = plt.subplots(nrows=4, ncols=3, figsize=(12, 12))
+
+for n, (_, car) in enumerate(top.iterrows()):
+    i = n // 3
+    j = n % 3
+    ax = axes[i, j]
+
+    filepath = DATA_DIR / 'images' / car['ImagePath']
+    image = plt.imread(filepath)
+    ax.imshow(image)
+    ax.text(10, 30, f'{n+1}', color='white', size=24)
+    ax.axis('off')
+
+plt.tight_layout()
+plt.show()
+{% endhighlight %}
+
+|    | Name                               | Power (bhp) | Weight (kg) |   Power/Weight Ratio |
+|---:|:-----------------------------------|------------:|------------:|---------------------:|
+|  1 | Suzuki Escudo Pikes Peak Version   |         981 |         800 |                 0.82 |
+|  2 | Nissan HKS Drag 180SX              |        1011 |         980 |                 0.97 |
+|  3 | Suzuki Cultus Pikes Peak Version   |         788 |         873 |                 1.11 |
+|  4 | Toyota GT-ONE Race Car (TS020) '99 |         765 |         900 |                 1.18 |
+|  5 | TVR Speed 12                       |         807 |         950 |                 1.18 |
+|  6 | Nissan HKS R33 Drag GT-R           |        1011 |        1280 |                 1.27 |
+|  7 | Toyota GT-ONE Race Car (TS020) '98 |         672 |         900 |                 1.34 |
+|  8 | Venturi Atlantique 600 LM          |         705 |         960 |                 1.36 |
+|  9 | TVR Cerbera LM Edition             |         624 |         890 |                 1.43 |
+| 10 | Honda CR-X del Sol LM Edition      |         617 |         890 |                 1.44 |
+| 11 | Lotus Elise GT1                    |         613 |         900 |                 1.47 |
+| 12 | Toyota GT-ONE Road Car (TS020) '98 |         593 |         900 |                 1.52 |
+{:.table}
+
+<div class="row mt-3" >
+    <div class="col-sm mt-3 mt-md-0" style="text-align: center;">
+        <img class="img-fluid rounded" src="{{ site.baseurl }}/assets/img/top12.png">
+    </div>
+</div>
+
+
+First of all, the limitation of picking a single metric to define how good a car is should jump to the GT amateur's eyes, because god knows how terrible these drag cars are. They handle like a potatoe, and are only remnants of an abandonned drag mode.
+
+If we forget about these two cars for a moment however, the rest of the ranking seems quite truthful. Unsurprisingly we find the **Suzuki Escudo Pikes Peak at the top**, with 0.82 kg per bhp (far better than any other cars, which makes it so overpowered). **Only 4 cars out of the top 12 are non-Japanese**: the British TVR Speed 12, TVR Cerbera LM Edition and Lotus Elise GT1, and the French Venturi Atlantique 600 LM. I lol'ed at the fact that the Toyota GT-One appears 3 times in the top 12, did we really need both the '98 and the '99 race car models?
+
+Finally, interesting to note that it may be worth grinding for the gold in License B early in game, as you will be rewarded the 10th best car in the game, the Honda CR-X del Sol LM Edition.
+
