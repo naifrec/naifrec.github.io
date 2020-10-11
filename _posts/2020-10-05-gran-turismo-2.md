@@ -1,7 +1,7 @@
 ---
 layout: post
 title: gran turismo 2, a data analysis
-date: 2020-10-05 08:00:00 -0000
+date: 2020-10-10 08:00:00 -0000
 description: visualizing some data about one of the pillars of the psx
 ---
 
