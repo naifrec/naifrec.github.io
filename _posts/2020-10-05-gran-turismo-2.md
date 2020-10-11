@@ -32,7 +32,7 @@ This time around, I challenged myself not to use overpowered cars like I used to
 
 ***
 
-As I wanted to back up my claim with data, I went through the effort of scraping the car list from [GT wiki website](https://gran-turismo.fandom.com/wiki/Gran_Turismo_2/Car_List), clean it up and make it usable for data analysis. I hereby present you [GT scrape](https://github.com/naifrec/gt-scrape), a small python project I built which uses beautifulsoup for scraping, a lot of regex magic for cleaning up, and finally pandas to process and analyze data. I am hosting [the cleaned up data on dropbox](https://www.dropbox.com/sh/aghqvta3wl0adri/AABQc85oMTnrTcDpycBZzsg4a?dl=0) if you want to have a go at it yourself. For now, using this data, we are going to address 4 of my claims:
+As I wanted to back up my claim with data, I went through the effort of scraping the car list from [GT wiki website](https://gran-turismo.fandom.com/wiki/Gran_Turismo_2/Car_List), clean it up and make it usable for data analysis. I hereby present you [GT scrape](https://github.com/naifrec/gt-scrape), a small python project I built which uses beautifulsoup for scraping, a lot of regex magic for cleaning up, and finally pandas to process and analyze data. I am hosting [the cleaned up data on dropbox](https://www.dropbox.com/sh/aghqvta3wl0adri/AABQc85oMTnrTcDpycBZzsg4a?dl=0) if you want to have a go at it yourself. It is easy to play with, if you want some examples of usage, click on "show code" throughout this article! For now, using this data, we are going to address 4 of my claims:
 1. most cars are Japanese
 2. most prize cars are Japenese
 3. most of the best cars are Japanese (and we will take the time to define what "best" means)
@@ -46,36 +46,39 @@ For the first two claim, I made the following figure, [using this code](https://
     </div>
 </div>
 
-We can try and summarize these statistics, let's see how to compute the percentage of cars per country using the following code snippet:
+<button type="button" class="collapsible" id="percentage">Show Code</button>
+<div class="code-block" markdown="1" id="percentagedata">
+  We can try and summarize these statistics, let's see how to compute the percentage of cars per country using the following code snippet:
 
-{% highlight python %}
-import pandas as pd
+  {% highlight python %}
+  import pandas as pd
 
-from gt.paths import DATA_DIR
+  from gt.paths import DATA_DIR
 
 
-# load the CSV data in a pandas DataFrame
-df = pd.read_csv(DATA_DIR / 'cars-clean-v2.csv', index_col=0)
-# count the number of car per country
-data_cars = df['Country'].value_counts().reset_index().rename(
-    {'index': 'Manufacturing Country',
-     'Country': '# cars featured',
-    },
-    axis=1
-)
-# count the number of prize car per country
-data_prize_cars = df[df['IsPrizeCar']]['Country'].value_counts().reset_index().rename(
-    {'index': 'Manufacturing Country',
-     'Country': '# cars featured',
-    },
-    axis=1,
-)
-# print percentages of cars per country
-print(100 * data_cars['# cars featured'] / data_cars['# cars featured'].sum())
-# print percentages of prize cars per country
-print(100 * data_prize_cars['# cars featured'] / data_prize_cars['# cars featured'].sum())
+  # load the CSV data in a pandas DataFrame
+  df = pd.read_csv(DATA_DIR / 'cars-clean-v2.csv', index_col=0)
+  # count the number of car per country
+  data_cars = df['Country'].value_counts().reset_index().rename(
+      {'index': 'Manufacturing Country',
+       'Country': '# cars featured',
+      },
+      axis=1
+  )
+  # count the number of prize car per country
+  data_prize_cars = df[df['IsPrizeCar']]['Country'].value_counts().reset_index().rename(
+      {'index': 'Manufacturing Country',
+       'Country': '# cars featured',
+      },
+      axis=1,
+  )
+  # print percentages of cars per country
+  print(100 * data_cars['# cars featured'] / data_cars['# cars featured'].sum())
+  # print percentages of prize cars per country
+  print(100 * data_prize_cars['# cars featured'] / data_prize_cars['# cars featured'].sum())
 
-{% endhighlight %}
+  {% endhighlight %}
+</div>
 
 In summary, **7 cars out of 10 in the game are Japanese**, and if you only look at **prize cars**, then **8 out of 10** are Japanese! I wonder how many Skylines are within these hehe, an exercise left to the reader.
 
@@ -124,15 +127,18 @@ Finally, let's visualize my last claim: *most cars are from the 90's*. While thi
     </div>
 </div>
 
-We can further summarize this timeline by computing the percentage of cars released in the 90's using the following code snippet:
+<button type="button" class="collapsible" id="timeline">Show Code</button>
+<div class="code-block" markdown="1" id="timelinedata">
+    We can further summarize this timeline by computing the percentage of cars released in the 90's using the following code snippet:
 
-{% highlight python %}
-df = df[~df['Date'].isna()]
-df['Date'] = df['Date'].astype(np.int32)
-print(100 * ((df['Date'] >= 1990).sum() / len(df)))
-{% endhighlight %}
+    {% highlight python %}
+    df = df[~df['Date'].isna()]
+    df['Date'] = df['Date'].astype(np.int32)
+    print(100 * ((df['Date'] >= 1990).sum() / len(df)))
+    {% endhighlight %}
+</div>
 
-From this computation comes out that **9 cars out of 10 are from the 90's**. The GT amateur would have a good grasp on this limitation, as for some race events in the games, this leaves for very few options (most notably the muscle car event, where you probably have to pick from 4-5 cars max).
+In summary, **9 cars out of 10 are from the 90's**. The GT amateur would have a good grasp on this limitation, as for some race events in the games, this leaves for very few options (most notably the muscle car event, where you probably have to pick from 4-5 cars max).
 
 ***
 
@@ -140,3 +146,5 @@ This concludes my quick go at scraping, cleaning and analyzing the data from Gra
 
 <div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/suB4gLaR6wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
 <div style="text-align: center;margin-bottom: 25px"> Gran Turismo 2 Extended Score - Groove - Blowing Away</div>
+
+{%- include collapsible.html -%}
