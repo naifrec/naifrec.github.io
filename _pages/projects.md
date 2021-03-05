@@ -1,15 +1,27 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
+title: music
+permalink: /music/
+description: One Track A Day
+nav: true
+pagination:
+  enabled: true
+  collection: projects
+  permalink: /page/:num/
+  per_page: 6
+  sort_field: importance
+  sort_reverse: true
+  trail:
+    before: 1 # The number of links before the current page
+    after: 3  # The number of links after the current page
 ---
+
+
+<div class="post">
 
 <div class="projects grid">
 
-  {% assign sorted_projects = site.projects | sort: "importance" %}
-  {% for project in sorted_projects %}
+  {% for project in paginator.posts %}
   <div class="grid-item">
     {% if project.redirect %}
     <a href="{{ project.redirect }}" target="_blank">
@@ -42,6 +54,9 @@ nav: false
       </div>
     </a>
   </div>
-{% endfor %}
+  {% endfor %}
+
+</div>
+{% include pagination.html %}
 
 </div>
