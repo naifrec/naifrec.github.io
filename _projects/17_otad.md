@@ -11,7 +11,11 @@ Downtempo, and in particular slow trance, [has been a recent interest of mine](/
 Parties in Ruigoord are always special, and one thing that makes it special, if not the music itself, is the audience. Truly kind and selfless; always entertaining a hefty bonfire outside, offering tea in a hut draped with trippy patterns. Most parties I have had there were with fast paced, psytrance, or forest as they call them these days. Yet with Boyan we were having fun rediscovering trance artists from the end of the 90's / early 2000’s who were producing slow paced, almost ambient pieces. We had a good laugh at the aliases of these artists, with names like [Transwave](https://youtu.be/BXVMEAa1rk0) or [Astral Projection](https://youtu.be/pKbpajb3L_4).
 
 
-<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/tDzhdZ82PXY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/tDzhdZ82PXY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
 
 <div class="caption">
     Neuromantic Trance - She Is Golden (Zlato) (1997)

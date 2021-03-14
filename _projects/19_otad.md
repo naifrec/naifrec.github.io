@@ -10,8 +10,10 @@ Yesterday I stayed at Romain’s place with Boyan, had dinner there and then we 
 
 I say “newly found”, but by now it’s not so new. He discovered the practice in 2018, after going to the Dutch Modular Festival in Rotterdam. At the time, he was looking for something to spice up his DJ sets, add more live elements to it to make it more of a hybrid, interactive performance. After taking part in the workshops of the festival, he did what he does best: watch hours on end of modular synthesis videos on YouTube. Upon finding Colin Benders’s channel, it became clear he had found his path: one could improvise on such a system, one could just go on and jam for hours, and Colin Benders set himself apart from most other modular peepz whomst usually remain in ambient territories. He was pumping out every day some amazing improved live performances.
 
-<div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/y-dFiFGztgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/y-dFiFGztgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 </div>
 
 <div class="caption">

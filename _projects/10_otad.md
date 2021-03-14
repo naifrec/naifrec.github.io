@@ -8,7 +8,11 @@ importance: 10
 
 Today is 3/03, where we celebrate probably the best accidental discovery in music history, where a bassline sequencer meant to accompany a guitar becomes ubiquitous in electronic music for its signature, sulfuric sounds. I will share my most recent acid anthem, or summer track if you will: Research Club - Café Iguana.
 
-<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/GVp08o-1Od8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/GVp08o-1Od8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
 
 <div class="caption">
     Research Club - Café Iguana (2020)

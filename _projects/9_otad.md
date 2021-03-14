@@ -10,7 +10,11 @@ Last week [I talked about](/music/8_otad/) Tetsukazu Nakanishi, and his producti
 
 It turns out I had inadvertently followed his trail last year when I dug in the PSX soundtracks to be able to play an entire set just out of PSX original soundtracks (unfortunately not recorded). I focused my attention on Namco games as I was already aware of their amazing sound team. Released in 1996, Rage Racer - a predecessor to Ridge Racer 4 which we also discussed last week - particularly caught my attention. The soundtrack is clearly more geared towards rave sounds than its successor, straight up jungle and [old school acid techno](https://youtu.be/8jmqVbcZjE8). My favorite track is (coincidentally?) produced by Testukazu Nakanishi: Lighting Luge.
 
-<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/WgEb_6xKkQo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/WgEb_6xKkQo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
 
 <div class="caption">
     Tetsukazu Nakanishi - Lighting Luge (1996)

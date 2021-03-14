@@ -20,7 +20,11 @@ importance: 2
 
 Yesterday I touched upon how the video game developer Namco released two titles which made history through their overall art direction: Ridge Racer 4 and Ace Combat 3 Electrosphere. The latter is in my opinion an even bolder game, with radical design choices, from the menu design to the narration. For an air combat arcade game, it is perhaps surprisingly story-driven, and to outline the struggle and despair of the protagonists, the Namco Sound Team outdid themselves to offer an outstanding original piece.
 
-<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/f_UiIO3oAos" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/f_UiIO3oAos" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
 
 <div class="caption">
     Tetsukazu Nakanishi - Transparent Blue (1999)

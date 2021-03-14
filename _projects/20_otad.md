@@ -8,8 +8,10 @@ importance: 19
 
 As I was proofreading (post deployment… :slightly_smiling_face: :gun:) [my article on breakbeat](https://naifrec.github.io/music/6_otad/), I had a flashback to an amazing label I did not mention there: [Holding Hands](https://holdinghandsrecords.bandcamp.com/). I originally found it through its founder; [Desert Sound Colony](https://www.fluxmusic.net/an-interview-with-desert-sound-colony/), whom I first discovered through his track Fast Life, released on [Touch From A Distance](https://touchfromadistance.bandcamp.com/) in 2018.
 
-<div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/hWQr7Q3OgEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/hWQr7Q3OgEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 </div>
 
 <div class="caption">
@@ -26,8 +28,10 @@ I am still convinced it’s the same sound; but yea it may be a happy coincidenc
 
 Anyway! As I wanted to hear more from this young fellow; I did what I warmly recommend you doing if you are not yet doing it for artists you like: check out the labels he is releasing on! I quickly found Holding Hands, and my pick for today is Aunt Wendy’s Wedding in Wales from [the label 3rd release](https://desertsoundcolony.bandcamp.com/album/003-aunt-wendys-wedding-in-wales-i-c-jangles).
 
-<div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/2YhV_RORdbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/2YhV_RORdbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 </div>
 
 <div class="caption">

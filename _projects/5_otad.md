@@ -12,7 +12,11 @@ What I find special about this record store is that there is a public facing mix
 
 That day was no different. This girl was playing dubby microhouse tracks, a timeless genre sitting very close to my heart. She then proceeded to pop this track: Mike Schommer - City Sleeps.
 
-<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/uYT9y0ZNXfk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/uYT9y0ZNXfk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
 
 <div class="caption">
     Mike Schommer - City Sleeps (2020)
@@ -22,7 +26,11 @@ This is a rare dub techno gem from the former partner of Rod Modell, aka DeepCho
 
 Before closing this article, I would like to draw your attention to the Yoyako instore sessions, where they invite DJs from over the world to perform all vinyl DJ sets. My current favorite is the dub techno/house set by Andrey Pushkarev, which is 2h of smooth sailing through sunny clouds. Enjoy!
 
-<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/-8H0Jc1GfKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/-8H0Jc1GfKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
 
 <div class="caption">
     Andrey Puskarev - Yoyaku instore session (2017)

@@ -7,20 +7,41 @@ description: visualizing some data about one of the pillars of the psx
 
 As mentionned in [my post on my musical influences](../../2019/glimpses-of-a-90s-child-musical-journey), I grew up with the PlayStation. My father offered me the PSX in 1997, I was 4 years old. I think he made this gift to me, but really he was low-key buying it for him. He bought it with Tekken 2, and we also had the demo disc. I remember the latter vividly, it was so awesome, intriguing, and even a bit scary. When going back to it recently, I realized how acid and futuristic they made the menus look. The intro music is [pure acid techno goodness for your ears](https://youtu.be/lPhFsdgI958?t=14). The tech demo is where it got a bit scary, I distincly remember watching the T-Rex walking with the ominous music playing and being absolutely speechless, my heart racing.
 
-<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/YCtZIlolG6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
-<div style="text-align: center;margin-bottom: 25px"> T-Rex tech demo on PlayStation 1 demo one disc, 1997</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/YCtZIlolG6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
+
+<div class="caption">
+    T-Rex tech demo on PlayStation 1 demo one disc, 1997
+</div>
 
 In 1998 my father expanded our video game library, adding Gran Turismo and Colin McRae Rally to the collection. I sucked hard at Colin McRae, so I sticked to Gran Turismo which was way more forgiving to a 5 years old. I remember playing the arcade mode, as I could not navigate the simulation mode just yet. I would play Clubman Stage Route 5, with the absolutely amazing Chevrolet Corvette Stingray '67. It was such a powerful car. I loved playing it specifically on this track, as the night model of the car would have the opened headlights. I sometimes raced with my father, and would win each time I'd play this car... to this day I still don't know if he was letting me win or if my victories were legit.
 
-<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/c-fW0xH4lgg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
-<div style="text-align: center;margin-bottom: 25px">Chevrolet Corvette Stingray in arcade mode on Clubman Stage Route 5, Gran Turismo 1</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/c-fW0xH4lgg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
+
+<div class="caption">
+    Chevrolet Corvette Stingray in arcade mode on Clubman Stage Route 5, Gran Turismo 1
+</div>
 
 When I moved to Normandy in 1999, I spent a lot more time playing with my cousin Pierre. We spent most of our time outside of school together, playing an array of awesome video games (Crash Bandicoot Warped, Crash Team Racing, Syphon Filter, and many others). We eventually started playing Gran Turismo 2, and I think it is one of the games we invested most time on. It was so innovative for its time. Frankly even by today's standards, a car list just shy of 600 cars is baffling. There was also so much to do: special races with different requirements (muscle car cup, cup for each drivetrain, GT300 and 500 series), endurance events, rally events, national and world championships, and then a myriad of manufacturer events...
 
 One of the many highlights of this release is the soundtrack. While researching this game, I realized us Europeans were blessed with the best (change my mind) version of the soundtrack, with the likes of [Fatboy Slim](https://youtu.be/Nh7oGo5sn2o) and [Propellerhead](https://youtu.be/A4ZuS7ebwTA). By far my favorite track while racing was the one featured below by Grooverider, [considered an originator](https://en.wikipedia.org/wiki/Grooverider) of the UK dnb scene. The mix gives into that amazing ambient drum'n'bass genre, which was living its golden era at the time.
 
-<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/rTG1YWbt5d0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
-<div style="text-align: center;margin-bottom: 25px">Everything But The Girl - Blame (Grooverider Jeep Mix)</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/rTG1YWbt5d0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
+
+<div class="caption">
+    Everything But The Girl - Blame (Grooverider Jeep Mix)
+</div>
 
 ***
 
@@ -144,7 +165,14 @@ In summary, **9 cars out of 10 are from the 90's**. The GT amateur would have a 
 
 This concludes my quick go at scraping, cleaning and analyzing the data from Gran Turismo 2. I hope this article was somewhat entertaining, and that you can yourself make use of the data I extracted from the Gran Turismo Wiki website to show some cool facts about the game! Not to leave you without one last track, here is one of my favorite remix from the Gran Turismo 2 soundtrack, with some crazy drum patterns... enjoy!
 
-<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/suB4gLaR6wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
-<div style="text-align: center;margin-bottom: 25px"> Gran Turismo 2 Extended Score - Groove - Blowing Away</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/suB4gLaR6wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
+
+<div class="caption">
+    Gran Turismo 2 Extended Score - Groove - Blowing Away
+</div>
 
 {%- include collapsible.html -%}

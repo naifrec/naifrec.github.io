@@ -12,7 +12,11 @@ Not everything we listened to was electronic music, I remember playing on repeat
 
 Charles did have a preference for minimal, cute, deep tracks though. I remember sitting on his sofa, completely blazed out of my mind, listening to [Faster - Finished Portrait](https://youtu.be/YkPzSKFpm7s). This was my first encounter with truly minimal music, or let’s say something different from the minimal that sounds like Paul Kalkbrenner. This was truly different, extremely slow in its evolution, so damn precise in the layering and orchestration, with an incredibly deep moment at 04:30 with echoing chords and these weird samples of cars honking in the background. I was definitely into this shit.
 
-<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/5B7U4IgQr_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/5B7U4IgQr_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
 
 <div class="caption">
     Hit Hz - Pulse (2016)
@@ -22,7 +26,11 @@ The track I picked today combines all of these genres he made me discover in the
 
 PS: if you dig this, I highly recommend browsing through Hit Hz releases, and the back catalog of Recordeep which this track was released on. I will leave you with another track from the French producer Hit Hz, also known as Salmanazar.
 
-<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/HrLOde_oCw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/HrLOde_oCw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
 
 <div class="caption">
     Hit Hz - Teenage Dreams (2017)

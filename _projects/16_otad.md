@@ -27,7 +27,11 @@ We would host parties before and after Arno Gonzalez’s Domingo events that wer
 
 I will keep the following of my music adventures with Romain for a next article, and close the article with my pick from this period, the gem among the bangers, a track I’d often play for opening, to warm things up with some deep, deep house: Awanto 3 - Pregnant. The track just keeps building, and building and building...  into another timeless house track. Enjoy!
 
-<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/SLRTNDlpLjk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/SLRTNDlpLjk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
 
 <div class="caption">
     Awanto 3 - Pregnant (2012)

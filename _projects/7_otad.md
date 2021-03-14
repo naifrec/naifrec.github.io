@@ -10,7 +10,11 @@ I will make a habit of posting ambient on Sunday, as an astral bridge to mindful
 
 My first pick is a record I found in 2016 in the depth of YouTube, as I was riding the wave of recommendations after stumbling upon [Cluster & Eno - Schöne Hände](https://youtu.be/HuKv_ThpItQ) in a documentary. I had inadvertently opened the pandora’s box of 70’s german producers, making what will sometimes be dubbed as space rock. Among them was the pioneer Klaus Schulze, also known for his Ash Ra Tempel act where he teamed up with the artist of interest today: Manuel Göttsching.
 
-<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/khejrbgdc4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/khejrbgdc4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
 
 <div class="caption">
     Manuel Göttsching - Inventions for Electric Guitar (1975)

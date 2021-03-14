@@ -6,7 +6,11 @@ img: https://img.discogs.com/QE9iMKoSMYXwL39YQS2rPILTzwA=/fit-in/600x600/filters
 importance: 6
 ---
 
-<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/TgoGo_NY3eo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/TgoGo_NY3eo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
 
 <div class="caption">
     DJ Life - Peia (2019)
@@ -18,7 +22,11 @@ From all the discussion about electronic music genres, I remember his (harder th
 
 Two landmark labels come to mind when thinking of this type of tracks: the UK-based [Craigie Knowes](https://craigieknowes.com/) and Berlin/Melbourne collab [Salt Mines](https://saltminesrec.bandcamp.com/). Highly recommend digging through their entire catalog. A stellar example of an artist who released on both is Reptant, who like DJ Life represents (part of) the Melbourne club scene. To close this article, here is my fav from him:
 
-<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/lzfeWTOxn4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/lzfeWTOxn4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
 
 <div class="caption">
     Reptant - Ether (2018)

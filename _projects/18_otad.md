@@ -9,7 +9,11 @@ importance: 18
 The two first electronic music genres I really digged were [ambient techno](https://www.youtube.com/playlist?list=PLBLV0mgoy14rK01Lo753mOviqkbBxQmAO) and [deep house](https://www.youtube.com/playlist?list=PLBLV0mgoy14oGSudznl_Y5VM0ox1JooKu). Each playlist has almost 350 tracks in them, although they have been lying mostly idle recently, as I have mostly been contributing to the [downtempo](https://www.youtube.com/playlist?list=PLBLV0mgoy14q9SLrVo5unTqFmkGh1NDtI), [breakbeat](https://www.youtube.com/playlist?list=PLBLV0mgoy14rnOuijW2K3agmvvvVeTJ-2) and [micro house](https://www.youtube.com/playlist?list=PLBLV0mgoy14qXCOOQh6DSSvhLHcvHU_oX) playlists. However the deep house playlist contains a lot of gems, and is one I can safely rely on when in need of some smooth vibes. The other day I was trying as an exercise to name the artists that appear the most in it, without looking. Well, [we already discussed](/music/3_otad/) how Moomin represents its fair share of the early days of this playlist, however funnily enough the first names that came to mind were Mr Tophat & Art Alfie, with 18 tracks and counting.
 
 
-<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/LGImSnwyquI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/LGImSnwyquI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
 
 <div class="caption">
     Mr Tophat & Art Alfie - Dazed & Confused (2012)
@@ -23,7 +27,11 @@ It is hard to pick a favorite from them, as I am very much into every track they
 
 I will probably share more tracks from them in the future, but most likely we will also discuss their label Junkyard Connections, and the artists adjacent to it like [Your Planet is Next](https://www.youtube.com/watch?v=FVgLEGERJHc) and [Flord King](https://youtu.be/6da5ob5NM4A). Until then, here is a bonus track from Art Alfie released in 2015 called Atlantis Discotheque, which could not be more appropriately named to be honest! Get ready for some underwater house party!
 
-<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/T-9TZyhkH2k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe  src="https://www.youtube.com/embed/T-9TZyhkH2k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
 
 <div class="caption">
     Art Alfie - Atlantis Discotheque (2015)

@@ -8,7 +8,11 @@ importance: 1
 
 Welcome to a series of articles which I will try to entertain at a daily rate, to hopefully train my pen and in the long run build a detailed playlist of tracks I vibed with one way or another. The main idea is to present one track each day, how I came across it, who produced it and add some trivia if any, without any particular focus on a genre or era.
 
-<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/epQgEagvVMA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/epQgEagvVMA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
 
 <div class="caption">
     Asuka Sakai - Silhouette (1998)

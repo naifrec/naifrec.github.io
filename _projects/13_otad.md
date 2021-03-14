@@ -10,7 +10,11 @@ In August 2016 we were celebrating the 25th birthday of two of our best mates, M
 
 I feel like our entire group of friends from engineering school was there, and if one thing unites us, it’s partying. Back in those days, I was living with two of my mates in Paris, Merlet and Flo. With these guys we were constantly listening to old school techno classics, from [Laurent Garnier - Acid Eiffel](https://youtu.be/VO_PAy3x5UU) to [Jaydee - Plastic Dreams](https://youtu.be/UwPKi1H8t9M). So I spent my set playing acid tracks from the 90’s, we played through the night. And I remember a particular moment, a particular track, a true piece of life, seconds I live for.
 
-<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/WJXBymfr1zI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/WJXBymfr1zI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
 
 <div class="caption">
     Microwave Prince - Eternal Light (1995)

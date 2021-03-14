@@ -10,7 +10,11 @@ Yesterday I played High Tone - Opus Incertum (2000), an album from my teenage ye
 
 Anyway, as I was playing the album on Spotify, when it came to an end, the related radio started playing. It picked this track, from an album I had never come across: High Tone - Do Be Dub Addict.
 
-<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/FptvtfDI0wI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/FptvtfDI0wI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
 
 <div class="caption">
     High Tone - Do Be Dub Addict (2002)

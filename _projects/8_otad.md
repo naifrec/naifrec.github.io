@@ -10,7 +10,11 @@ I recently stumbled upon a gem of a YouTube channel, [KSFRecords](https://www.yo
 
 KSFRecords allow you to take a glimpse of these alien worlds, through the eyes of the fastest speedrunners in the game, who all seem to have a fetish for 4-5 letters usernames: caff, levi, tucks, favs. Their recent 2020 retrospective had me sitting for 20 minutes in awe, astounded by the entire audiovisual experience.
 
-<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/wigobNhd4Dg?t=279" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/wigobNhd4Dg?t=279" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
 
 <div class="caption">
     KSFRecords - Best WR's of 2020
