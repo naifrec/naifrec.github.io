@@ -8,7 +8,7 @@ pagination:
   enabled: true
   collection: projects
   permalink: /page/:num/
-  per_page: 6
+  per_page: 9
   sort_field: importance
   sort_reverse: true
   trail:
