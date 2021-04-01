@@ -2,7 +2,7 @@
 layout: page
 title: OTAD#37 - Burnt Sage
 description: sounds of bygone times
-img: https://i.discogs.com/R-3398326-1328898430.jpeg?bucket=discogs-images&fit=contain&format=auto&height=600&quality=90&width=600&signature=8SkHL8lLHzLTjZA%2FXKDiZUb5GMyWQwcpfuO42gnFpQ0%3D
+img: https://img.discogs.com/YCr0ozMPVaMAhodxPQqLfXy0sXg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2328489-1277247402.jpeg.jpg
 importance: 37
 ---
 

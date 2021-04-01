@@ -2,7 +2,7 @@
 layout: page
 title: OTAD#36 - Luxury 1
 description: daydream dub
-img: https://i.discogs.com/R-5436433-1517435394-4704.jpeg?bucket=discogs-images&fit=contain&format=auto&height=596&quality=90&width=600&signature=dSzYgqWXn%2BTA2zmwgjjgypXEvaSxeAUkBgYeJFxTQco%3D
+img: https://img.discogs.com/3o_JW4qGG5vIIkYdJUqjUlpZqXY=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5436433-1517435394-4704.jpeg.jpg
 importance: 36
 ---
 

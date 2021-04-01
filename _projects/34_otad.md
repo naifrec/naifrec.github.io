@@ -2,7 +2,7 @@
 layout: page
 title: OTAD#34 - UT3
 description: on the trail of Rom Di Prisco!
-img: https://i.discogs.com/R-6119046-1411531090-3736.jpeg?bucket=discogs-images&fit=contain&format=auto&height=500&quality=90&width=500&signature=2/H47KaF8aKp%2BcT76W1pHfjGDwrHS/Ia6riNGZlvlRI%3D
+img: https://img.discogs.com/TQmCy7TEqS2n4Ijb0K_b7MF6nZw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6119046-1411531090-3736.jpeg.jpg
 importance: 34
 ---
 
