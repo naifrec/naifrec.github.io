@@ -23,7 +23,7 @@ I first discovered Aleks through his ambient release called [Body / Astral](http
 
 Anyway, going back to Aleks, after being blown away by Astral, with an almost out-of-body experience on my first listen, I quickly went through his other releases. He is the one who made me discover [Natural Sciences](https://naturalsciences.bandcamp.com/), a label I dig deep, the inventors of *[“Dungeon Rap”](https://naturalsciences.bandcamp.com/album/dungeon-rap-the-introduction)* (to the best of the author's knowledge.. kek), some kind of mix between dark ambient and early memphis hip-hop, which is the closest thing to trap from the 90’s. The early releases though, from circa 2015, are knee deep in the fade of that era, lofi house. Aleks signs the first ever release in Natural Sciences with the EP Low Definitions. A1, Ulterior Motive, is a classic lofi track of mine, featuring a lovely acid stab, deep ambient pads and groovy 303 bassline.
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2913042379/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://aleksnaturalsciences.bandcamp.com/album/low-definitions">Low Definitions by Aleks</a></iframe>
+<div style="text-align: center;">  <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2913042379/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://aleksnaturalsciences.bandcamp.com/album/low-definitions">Low Definitions by Aleks</a></iframe> </div>
 
 <div class="caption">
     Aleks - Ulterior Motives (2015)
