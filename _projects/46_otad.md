@@ -7,7 +7,7 @@ author: Guillaume Sautière
 date: 2021-04-08 11:59:00-0400
 ---
 
-I try to get at least one track from a video game a week, but to mix things up, I will share a track made with samples from a video game this time! By now you should be pretty familiar with the concept of slow trance, if not please read my slow goa and slow trance articles! Well! Proficient artists in the genre, A Strange Wedding, have recently released a track called *“Age of Empire Goes at War In Space”*, which uses many samples from AoE, including [the infamous wololo](https://youtu.be/7CIGb1Ti06k).
+I try to get at least one track from a video game a week, but to mix things up, I will share a track made with samples from a video game this time! By now you should be pretty familiar with the concept of slow trance, if not please read my [slow goa](/music/41_otad/) and [slow trance](/music/4_otad/) articles! Well! Proficient artists in the genre, A Strange Wedding, have recently released a track called *“Age of Empire Goes at War In Space”*, which uses many samples from AoE, including [the infamous wololo](https://youtu.be/7CIGb1Ti06k).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 video" align="center">
