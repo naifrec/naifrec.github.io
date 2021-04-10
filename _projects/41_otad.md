@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#41 - Slow Goa
 description: pitched down at the edge of reality
 img: https://img.discogs.com/WtKEF_1NWJr-AScVOBcv_HlXCUg=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-96227-1261938171.jpeg.jpg
-importance: 41
+author: Guillaume Sautière
+date: 2021-04-03 11:59:00-0400
 ---
 
 Remember when [I talked about slow trance in the 4th episode of OTAD](/music/4_otad/)? I mentioned at the time that slow trance’s “core concept is to revive old Goa tracks from the 90’s (or produce tracks as if they were from that time)” and then proceeded to share a fairly recent edit from Ed Isar, which may have left you bitter, wondering what actual old tracks would sound like when slowed down! Well wait no longer, as I bestow upon you Howl by Encen, originally released in 1997, played at 33RPM instead of 45RPM.

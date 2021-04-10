@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#32 - D.KO
 description: du son pour les gars sûrs!
 img: https://f4.bcbits.com/img/a3858994236_16.jpg
-importance: 32
+author: Guillaume Sautière
+date: 2021-03-25 11:59:00-0400
 ---
 
 Today I would like to introduce you to one of my favorite Parisian crews, [D.KO records](https://dkorecords.bandcamp.com/). Some of the artists on the label you may know are Mézigue, [Paul Cut](https://youtu.be/l7A5u0FO9RA), [Mad Rey](https://youtu.be/3gSLwjy28HM) and Flabaire, and there were also few appearances of [Leo Pol](https://youtu.be/6KQuNU6Ykfw)! Mézigue, who introduced me to D.KO, made his name by releasing anthem house tracks, which were usually accompanied with amazing video clips.

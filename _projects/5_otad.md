@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#5 - Dubby Breaks
 description: Yoyaku delivers
 img: https://img.discogs.com/TQTifMgcGQ_BKAFPj1yx3cW0DdY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13165596-1554160553-7212.jpeg.jpg
-importance: 5
+author: Guillaume Sautière
+date: 2021-02-26 11:59:00-0400
 ---
 
 The track of today is my last physical dig in a record shop before the world shut down, back in January 2020. I was visiting my girlfriend in Paris, who used to live near the 20th arrondissement. We had the habit to go from time to time to Yoyaku, a record store (and [YouTube channel](https://www.youtube.com/channel/UCtSYkZGP9nkvXPMQgjeEIow)) which specializes in minimal house and techno, also known as microhouse (although uttering this term may anger purists of the genre, so be careful, some seem to love themselves more than the music they play).

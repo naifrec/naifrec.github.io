@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#47 - Vril or not Vril?
 description: crème de la crème ambient techno
 img: https://img.discogs.com/uyxOpaeizs_6a5h5xrvaCUny9RI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6643719-1429462040-9007.jpeg.jpg
-importance: 47
+author: Guillaume Sautière
+date: 2021-04-09 11:59:00-0400
 ---
 
 It’s Friday, I hesitated to try and find a good party track, but my mood is more melancholic today after a long week of work. I hence turned to my ambient techno playlist, a playlist once flourishing which I unfortunately do not entertain as much nowadays. The entries there become more rare, yet perhaps more significant. One of the last entries is actually a track I discovered way back in 2015, back when I was super into Vril (and [Giegling in general](https://youtu.be/0McBUeu0FUU)).

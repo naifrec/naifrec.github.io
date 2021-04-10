@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#29 - Polar Inertia
 description: icy beepy soundz
 img: https://f4.bcbits.com/img/a4158541073_16.jpg
-importance: 29
+author: Guillaume Sautière
+date: 2021-03-22 11:59:00-0400
 ---
 
 <div style="text-align: center;"> <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4097480356/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=4156856986/transparent=true/" seamless><a href="https://dement3d.bandcamp.com/album/indirect-light-ep">Indirect Light Ep by Polar Inertia</a></iframe> </div>

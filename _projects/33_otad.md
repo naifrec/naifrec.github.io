@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#33 - PFM
 description: ambient dnb again!
 img: https://i1.sndcdn.com/artworks-GqhcMOmYekRwspiW-9DBwyg-t500x500.jpg
-importance: 33
+author: Guillaume Sautière
+date: 2021-03-26 11:59:00-0400
 ---
 
 Already been a week since [I last shared some nice ambient drum n bass](https://naifrec.github.io/music/24_otad/)! Can’t drag this for much longer. Today’s pick: Love & Happiness by PFM, released in 1994 on the amazing label we already talked about: [Good Looking Records](https://open.spotify.com/playlist/6ppXpzOSE2boUG3SpyiGSP?si=ZdiJmdiYToKtw811_Ouiwg).

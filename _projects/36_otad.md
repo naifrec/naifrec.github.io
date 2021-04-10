@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#36 - Luxury 1
 description: daydream dub
 img: https://img.discogs.com/3o_JW4qGG5vIIkYdJUqjUlpZqXY=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5436433-1517435394-4704.jpeg.jpg
-importance: 36
+author: Guillaume Sautière
+date: 2021-03-29 11:59:00-0400
 ---
 
 I recently managed to get a first version of my “youtube to spotify” playlist porting python tool to work. You can check it out, it’s called [bes](https://github.com/naifrec/bes), in particular look at this sweet object oriented API in [run/from_youtube_to_spotify.py](https://github.com/naifrec/bes/blob/main/run/from_youtube_to_spotify.py)… although I have not documented it (yet?). I will soon write a long-form article about this! Anyway, porting my playlists to spotify had the nice consequence that I am now listening to them a lot more, as I usually listen to Spotify during the work day to avoid the distraction of YouTube. I have to say I suck at resisting the temptation of clicking some of these thumbnails, so I had to install a blocker to shield me from myself.

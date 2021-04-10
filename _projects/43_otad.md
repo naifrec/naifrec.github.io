@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#43 - DJ Krush
 description: zen sock puppets
 img: https://vgmsite.com/soundtracks/littlebigplanet-ps3-gamerip-2009/cover.jpg
-importance: 43
+author: Guillaume Sautière
+date: 2021-04-05 11:59:00-0400
 ---
 
 Charlotte was playing some tracks today from a Spotify playlist of hers today as we were playing decrypto, and this one track randomly came up, a true *madeleine de Proust*, Song 2 by DJ Krush.

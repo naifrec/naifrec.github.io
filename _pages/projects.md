@@ -9,7 +9,7 @@ pagination:
   collection: projects
   permalink: /page/:num/
   per_page: 9
-  sort_field: importance
+  sort_field: date
   sort_reverse: true
   trail:
     before: 1 # The number of links before the current page

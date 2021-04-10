@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#13 - Microwave Prince
 description: entranced in a summer field
 img: https://img.discogs.com/8Sdq2xNddpn9oZBUBQ9PurvxvUY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-32837-1412010403-6851.jpeg.jpg
-importance: 13
+author: Guillaume Sautière
+date: 2021-03-06 11:59:00-0400
 ---
 
 In August 2016 we were celebrating the 25th birthday of two of our best mates, Merlet and Philippe. The party was hosted in the backyard (and I should probably say field) of Philippe’s house, deep in the countryside of Bretagne, near Concarneau. The weather was amazing, the summer warmth, the cloudless skies. I had brought my controller, the amazing Native Instruments Kontrol S4 MKI-I I had bought second-hand to some dude in Liverpool. They had rented to some of their free-party friends one of the loudest sound system I ever played on.

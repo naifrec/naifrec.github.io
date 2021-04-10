@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#3 - Moomin
 description: Moomin surprises with a liquid track
 img: https://img.discogs.com/0dXCDOlBU9X2j9WRe8rQet1YZIE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9935750-1488826632-7738.jpeg.jpg
-importance: 3
+author: Guillaume Sautière
+date: 2021-02-24 11:59:00-0400
 ---
 I recently clicked randomize on my “deep house case” playlist and stumbled upon a track I added 3-4 years ago: Casino Times - Oddity (Moomin remix).
 

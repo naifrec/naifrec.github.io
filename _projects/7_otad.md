@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#7 - krautrock
 description: Göttsching or the German Jesus?
 img: https://img.discogs.com/OxKb8IpS61u62WHvu3SF_jyzxow=/fit-in/500x484/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-826922-1311517468.jpeg.jpg
-importance: 7
+author: Guillaume Sautière
+date: 2021-02-28 11:59:00-0400
 ---
 
 I will make a habit of posting ambient on Sunday, as an astral bridge to mindfulness, a peaceful down time. As I explained in length in [my biographical look of my musical journey](https://naifrec.github.io/blog/2019/glimpses-of-a-90s-child-musical-journey/), ambient is my favorite genre. It is timeless, shapeless, moving. Whether it will help you concentrate on work or on the contrary help escape it, only your experience of a piece will tell.

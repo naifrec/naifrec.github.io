@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#40 - Shorelights
 description: Earth's pulse through the storm
 img: https://f4.bcbits.com/img/a3903282727_10.jpg
-importance: 40
+author: Guillaume Sautière
+date: 2021-04-02 11:59:00-0400
 ---
 
 For my last pick from Rod Modell’s catalog, I would like to pick one of his other aliases: Shorelights. Under this moniker, Rod Modell releases his ambient stuff, which basically means things very similar to his dub techno stuff, stripped down to the ambient layers, no kick nor any groovy bassline on sight. Most of his releases are hour-long seemingly live sessions, without any separation between tracks, which is why I am sharing this entire session here.

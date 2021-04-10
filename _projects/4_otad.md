@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#4 - Slow Trance
 description: Ed Isar's own take on downtempo
 img: https://f4.bcbits.com/img/a0789781255_10.jpg
-importance: 4
+author: Guillaume Sautière
+date: 2021-02-25 11:59:00-0400
 ---
 
 In summer 2019, my collective organized the third and fourth edition of Activités en Forêt, a small-scale rave in Amsterdamse Bos. We usually round up about 70 people, and invite our friends to throw a small DJ set deep in the woods. On the fourth edition, I was happy that most of the Parisian All We Need Is Acid crew could get to Amsterdam to party with us, among them DJ Antoinette, Rnkic and Waveguide.

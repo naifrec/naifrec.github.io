@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#44 - Aleks
 description: quiet <s>storm</s> daze
 img: https://img.discogs.com/TlULI8Sv1on_afp0Hu58vrpYDT4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11237449-1512481705-9655.jpeg.jpg
-importance: 44
+author: Guillaume Sautière
+date: 2021-04-06 11:59:00-0400
 ---
 
 To keep the mellow mood going from the previous days; yet change the genre a lil’ bit, I picked today’s track from my beloved lofi deep house playlist. This playlist has to be the one with the least variety in artists, half of the 50 tracks are either from Terekke or Aleks ahah. Let’s start with Aleks today, and I am sure I will write plenty about Terekke another day.

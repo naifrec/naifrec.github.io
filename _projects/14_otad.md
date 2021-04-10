@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#14 - Kankyō Ongaku
 description: ambient sunday bathed in Japanese frequencies
 img: https://img.discogs.com/WNF26UrmlGFe5WFAMsGsw570bp8=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13390718-1553316277-8339.jpeg.jpg
-importance: 14
+author: Guillaume Sautière
+date: 2021-03-07 11:59:00-0400
 ---
 
 It’s ambient Sunday again! Today I would love to zoom in on an amazing duo, my dear friends [Sorok Pervyï](https://sorokpervyi.bandcamp.com/), i.e. Rnkic and DJ Antoinette working together to create otherworldly audiovisual experiences. [Rnkic’s visuals](https://youtu.be/kbn8GbpjWGU) are heavily focused on strange light reflections, anisotropic diffraction of light through all kinds of ethereal substrates. [DJ Antoinette’s music](https://sorokpervyi.bandcamp.com/track/carbon-2) is percussion driven, I would call this breakcore if it was not so damn close to ambient at the same time. He describes his work as *“obsessive drums [...] and deconstructed soundscapes”*, which is pretty fitting.

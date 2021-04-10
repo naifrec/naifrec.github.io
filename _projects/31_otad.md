@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#31 - Psygnosys
 description: assault rigs or salt mines??
 img: https://image.jeuxvideo.com/images/ps/a/s/asrips0f.jpg
-importance: 31
+author: Guillaume Sautière
+date: 2021-03-24 11:59:00-0400
 ---
 
 I spent a LOT of time digging through the PS1 back catalog of video games, listening to random OSTs, looking for hidden gems, in long forgotten, bad 3D video games that still somehow got an amazing soundtrack. I think the quintessential example is my pick for today, the 5th track on Assault Rigs, an obscure (figuratively and literally) game released in 1996 by [Psygnosys](https://youtu.be/tvYlxnHOY-Q), a legendary game development company best known for Lemmings and the Wipeout series.

@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#18 - Afterparty House
 description: a Swedish take on house music
 img: https://img.discogs.com/yBxsy3RVL4hzSGkYtyykjBwiQu4=/fit-in/346x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4379771-1371750065-8505.jpeg.jpg
-importance: 18
+author: Guillaume Sautière
+date: 2021-03-11 11:59:00-0400
 ---
 
 The two first electronic music genres I really digged were [ambient techno](https://www.youtube.com/playlist?list=PLBLV0mgoy14rK01Lo753mOviqkbBxQmAO) and [deep house](https://www.youtube.com/playlist?list=PLBLV0mgoy14oGSudznl_Y5VM0ox1JooKu). Each playlist has almost 350 tracks in them, although they have been lying mostly idle recently, as I have mostly been contributing to the [downtempo](https://www.youtube.com/playlist?list=PLBLV0mgoy14q9SLrVo5unTqFmkGh1NDtI), [breakbeat](https://www.youtube.com/playlist?list=PLBLV0mgoy14rnOuijW2K3agmvvvVeTJ-2) and [micro house](https://www.youtube.com/playlist?list=PLBLV0mgoy14qXCOOQh6DSSvhLHcvHU_oX) playlists. However the deep house playlist contains a lot of gems, and is one I can safely rely on when in need of some smooth vibes. The other day I was trying as an exercise to name the artists that appear the most in it, without looking. Well, [we already discussed](/music/3_otad/) how Moomin represents its fair share of the early days of this playlist, however funnily enough the first names that came to mind were Mr Tophat & Art Alfie, with 18 tracks and counting.

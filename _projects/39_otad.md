@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#39 - Atmospherica
 description: etched in emerald
 img: https://www.deejay.de/images/xl/2/2/203022.jpg
-importance: 39
+author: Guillaume Sautière
+date: 2021-04-01 11:59:00-0400
 ---
 
 <div class="row">

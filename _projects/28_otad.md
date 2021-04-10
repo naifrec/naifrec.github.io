@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#28 - Vladislav Delay
 description: groovy glitch ambient
 img: https://img.discogs.com/F53mUbrpyRL65B8g4yjbO3fYPeE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6375-1148676157.jpeg.jpg
-importance: 28
+author: Guillaume Sautière
+date: 2021-03-21 11:59:00-0400
 ---
 
 <div class="row">

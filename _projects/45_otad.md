@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#45 - Shawty Pimp
 description: memphis rap hits real smooth
 img: https://img.discogs.com/kXHpk-H-TvQctp-yufHjM_3OyBk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12311325-1533572247-8991.jpeg.jpg
-importance: 45
+author: Guillaume Sautière
+date: 2021-04-07 11:59:00-0400
 ---
 
 Yesterday, talking about Dungeon Rap and Aleks, got me thinking again about one of my favorite accidental discoveries. One day, I was browsing through the new releases at Rush Hour, got a bit bored of the electronic music case and mixed things up by checking the smaller yet well furnished hip-hop case. Second album I peep is Still Comin’ Real by Shawty Pimp, I am immediately drawn to it because of the washed out cover art. I set it aside, look a lil’ longer for other albums, but shortly decide to just give this one a go. Imagine my stupefaction when this banger of a track starts playing…

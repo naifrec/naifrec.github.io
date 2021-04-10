@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#20 - breaks breaks breaks!
 description: desert sound colony ftw!
 img: https://img.discogs.com/9ZCCr0eQo4WaSWOdXBN0_fYOkoc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12462734-1536501667-6841.jpeg.jpg
-importance: 20
+author: Guillaume Sautière
+date: 2021-03-13 11:59:00-0400
 ---
 
 As I was proofreading (post deployment… :slightly_smiling_face: :gun:) [my article on breakbeat](https://naifrec.github.io/music/6_otad/), I had a flashback to an amazing label I did not mention there: [Holding Hands](https://holdinghandsrecords.bandcamp.com/). I originally found it through its founder; [Desert Sound Colony](https://www.fluxmusic.net/an-interview-with-desert-sound-colony/), whom I first discovered through his track Fast Life, released on [Touch From A Distance](https://touchfromadistance.bandcamp.com/) in 2018.

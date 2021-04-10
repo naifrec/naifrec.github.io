@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#19 - Modular Synthesis
 description: jamming at Romain's!
 img: https://i1.sndcdn.com/artworks-i0vBNKEc0MNnuuOx-xJxJxA-t500x500.jpg
-importance: 19
+author: Guillaume Sautière
+date: 2021-03-12 11:59:00-0400
 ---
 
 Yesterday I stayed at Romain’s place with Boyan, had dinner there and then we jammed on his modular system for hours on end. While I talked about our shared first steps into the DJing world, and will try to do more refined archeological research to unearth the tracks of that time, I would like to focus this article on his newly found passion: modular synthesis.

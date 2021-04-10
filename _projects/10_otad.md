@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#10 - 3/03
 description: acid makes you happier, fact.
 img: https://f4.bcbits.com/img/a1931270199_10.jpg
-importance: 10
+author: Guillaume Sautière
+date: 2021-03-03 11:59:00-0400
 ---
 
 Today is 3/03, where we celebrate probably the best accidental discovery in music history, where a bassline sequencer meant to accompany a guitar becomes ubiquitous in electronic music for its signature, sulfuric sounds. I will share my most recent acid anthem, or summer track if you will: Research Club - Café Iguana.

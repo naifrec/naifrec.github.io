@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#24 - Photek
 description: lushest of lush dnb
 img: https://img.discogs.com/EQg8Icntjd1KCG8Nc2W_Nn0kjjE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1907602-1251652024.jpeg.jpg
-importance: 24
+author: Guillaume Sautière
+date: 2021-03-17 11:59:00-0400
 ---
 
 <div class="row">

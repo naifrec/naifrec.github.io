@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#37 - Burnt Sage
 description: sounds of bygone times
 img: https://img.discogs.com/YCr0ozMPVaMAhodxPQqLfXy0sXg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2328489-1277247402.jpeg.jpg
-importance: 37
+author: Guillaume Sautière
+date: 2021-03-30 11:59:00-0400
 ---
 
 <div class="row">

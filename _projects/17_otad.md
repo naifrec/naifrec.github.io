@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#17 - Melancholic Trance
 description: slow trance can also be :'(
 img: https://img.discogs.com/DVJqc3l5eTbDUIkrnae2H0pxn_M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-623880-1273538122.jpeg.jpg
-importance: 17
+author: Guillaume Sautière
+date: 2021-03-10 11:59:00-0400
 ---
 
 Downtempo, and in particular slow trance, [has been a recent interest of mine](/music/4_otad). I have been digging through the genre with the help of my mate [Boyan](https://directive01.tumblr.com/), the amazing (human?) entity whomst composed the amazing visuals for our [ethereal spaces ambient escape](https://youtu.be/hVFlOjhWbJs). He has always had affinities with trance, mostly through psytrance. In Amsterdam, the trance scene is the current-times hippie scene, mostly represented by the bewitching place that is Ruigoord; a field with a dozen houses and a church, who like the Gallic village of Asterix resisted capitalism and remains immaculate, standing like a fort in the middle of the industrial port of Amsterdam. Its die hard community makes money through countless music-related events, including (but not limited to) psytrance parties in the church on saturday evenings.

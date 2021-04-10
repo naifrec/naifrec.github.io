@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#21 - Nostalgic Ambient
 description: stars of the lid <3
 img: https://img.discogs.com/lpff1ZGDrNZUoi_bW5T_0qrsAvk=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1306368-1271616577.jpeg.jpg
-importance: 21
+author: Guillaume Sautière
+date: 2021-03-14 11:59:00-0400
 ---
 
 As I am focusing these days on coding up a python script to transfer my YouTube playlists to Spotify, this ambient Sunday will be shorter than usual. I would still like to share my favorite ambient artists of all time: Stars of the Lid. While they will definitely get more spotlight in a later article, I would like to share probably one of their lesser known albums: Avec Laudenum. Originally released on Sub Rosa, it was reissued in 2006 on Kranky Records, a label I have digged through and through after finding about it, as they notably host artists like [Loscil](https://youtu.be/Pu3yN_FVltk), [Tim Hecker](https://youtu.be/PhEuAuhH418) or [Bowery Electric](https://youtu.be/KAo4svd7IR4).

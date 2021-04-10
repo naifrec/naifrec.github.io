@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#6 - Breakbeat
 description: What is it?
 img: https://img.discogs.com/QE9iMKoSMYXwL39YQS2rPILTzwA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13990245-1571920736-1796.jpeg.jpg
-importance: 6
+author: Guillaume Sautière
+date: 2021-02-27 11:59:00-0400
 ---
 
 <div class="row">

@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#8 - surfing
 description: the surreal worlds of cs surf maps
 img: https://images.gamebanana.com/img/ss/maps/5ef902e02727c.jpg
-importance: 8
+author: Guillaume Sautière
+date: 2021-03-01 11:59:00-0400
 ---
 
 I recently stumbled upon a gem of a YouTube channel, [KSFRecords](https://www.youtube.com/c/ksfrecords). This channel posts the world record on different surf levels in counter-strike. CS surfing is [such a weird niche](https://youtu.be/qw3V7ohU3-U), who would have thought a FPS game would become an abstract racer, where bunny hopping and slope strafing become core gameplay. The maps are all about difficult to execute moves, where speed, momentum and precision are your only keys to success. Because one travels so fast when surfing, mappers typically settle for outlandish landscapes, eerily empty ([as many source maps tend to feel like](https://youtu.be/03yL_JCeQBI)).

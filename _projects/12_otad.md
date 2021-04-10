@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#12 - Hit Hz
 description: deep (micro) house
 img: https://img.discogs.com/aglVALyS5NR5qviLcNPolT0S7Z4=/fit-in/302x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7943015-1459890271-6390.jpeg.jpg
-importance: 12
+author: Guillaume Sautière
+date: 2021-03-05 11:59:00-0400
 ---
 
 When I first started digging electronic music back in 2012-2013, right at the end of preparatory school, I was mainly listening to minimal and deep house. I would go every Sunday evening to my friend’s, Charles, and we would listen to his latest findings. The very first track I remember him sharing was the deep house track [Matt John - Ocean Inside](https://youtu.be/-bst3cQ9M2s). I was absolutely crazy with this track, it went so fucking deep during the first minute. To be honest listening to it nowadays I just wish there would be a dub edit without these irritating vocals on top.

@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#16 - Romain
 description: love letter to my bff, part 1
 img: https://img.discogs.com/hp7j6K-m9ixYeof0gTDX2NlYzZ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3352210-1393668891-6829.jpeg.jpg
-importance: 16
+author: Guillaume Sautière
+date: 2021-03-09 11:59:00-0400
 ---
 
 I cannot believe that in all these articles I wrote, especially in my long form biographical, I managed not to mention my best friend Romain. Him and I met in the first year of engineering school, in Angers in 2012. We were fresh out of preparatory school and could not be happier to be out of this soul crushing machine. We originally bonded over a small extra-scholar project, where the idea was to build a business case for an app (startup nation represent). We were both convinced a cool idea would be to build Jukevox, an app allowing people visiting a bar to vote for the next track to play.

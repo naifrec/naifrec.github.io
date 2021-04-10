@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#35 - Space Afrika
 description: mancunian jungle dub ambient
 img: https://f4.bcbits.com/img/a1137618719_16.jpg
-importance: 35
+author: Guillaume Sautière
+date: 2021-03-28 11:59:00-0400
 ---
 
 It’s ambient Sunday again! Today’s pick comes again from the amazing duo [Sorok Pervyï](https://naifrec.github.io/music/14_otad/), my dear friends I had mentioned in [my article on Takashi Kokubo’s dreamy harp work](/music/14_otad/).

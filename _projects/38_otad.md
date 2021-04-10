@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#38 - Prana
 description: icy cavern dub sounds
 img: https://img.discogs.com/QNHhQi0h5pL3RzAADJHsORzEZoA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5066603-1384351703-1114.jpeg.jpg
-importance: 38
+author: Guillaume Sautière
+date: 2021-03-31 11:59:00-0400
 ---
 
 <div class="row">

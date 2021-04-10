@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#2 - Ace Combat 3
 description: Namco strikes again
 img: https://images-na.ssl-images-amazon.com/images/I/5117428ZSJL._SX342_.jpg
-importance: 2
+author: Guillaume Sautière
+date: 2021-02-23 11:59:00-0400
 ---
 
 <div class="row">

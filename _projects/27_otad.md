@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#27 - BDFM
 description: oriental bass music
 img: https://f4.bcbits.com/img/a0776576989_16.jpg
-importance: 27
+author: Guillaume Sautière
+date: 2021-03-20 11:59:00-0400
 ---
 
 Everything should have made me follow [Brothers From Different Mothers](https://bfdm.bandcamp.com/) earlier. As early as 2014, I saw [J-Zbel](https://www.youtube.com/watch?v=kk7ylGqz2UY) at the festival Les Nuits Sonores in Lyon, I remember some incredible performance where 3 dudes were bumping some really dope tracks, with their bandana, spitting fire tracks like they be throwing molotov cocktails in the crowd! Both my friends DJ Antoinette and Waveguide kept repeating me to start digging through their catalog. In the end it’s a party in Garage Noord, end of 2019, that truly made me fall in love with them. The entire crew was showcasing the label’s work, and hot damn this party was bumping so hard I (genuinely) hurt my knee. They were doing this crazy back and forth between trap at around 80/90BPM and hardcore i.e. the perfect double of that. Some beats to overthrow the patriarchy to.

@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#26 - Dub Taylor
 description: old school dub techno
 img: https://img.discogs.com/G7bnEAAiJ2LJshPR7XgtZUtBIL8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12265-1247475273.jpeg.jpg
-importance: 26
+author: Guillaume Sautière
+date: 2021-03-19 11:59:00-0400
 ---
 
 You may have noticed my affinity with anything dub, from actual dub to ragga, passing by lush deep minimal tracks, but of course dub techno too. Dub techno is a genre I have a hard time finding in clubs, only very few acts I was at were actively dub techno. Not sure if it’s because its heydays are behind, as the genre is seemingly seeing some kind of revival in recent years, especially through a more micro / minimal take to it; with artists like [Romar](https://youtu.be/Z_fZYudCGaA), [Janeret](https://youtu.be/XiJ0dBzV_74) or [Andrey Puskharev](https://youtu.be/5cc9LRbZsIk), but also with the coming of age of ambient techno artists like [nthng](https://youtu.be/fCU3ShXB4Gc) or [Anthony Naples](https://youtu.be/emmqd3we7hU).

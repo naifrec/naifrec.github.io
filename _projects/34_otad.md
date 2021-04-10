@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#34 - UT3
 description: on the trail of Rom Di Prisco!
 img: https://img.discogs.com/TQmCy7TEqS2n4Ijb0K_b7MF6nZw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6119046-1411531090-3736.jpeg.jpg
-importance: 34
+author: Guillaume Sautière
+date: 2021-03-27 11:59:00-0400
 ---
 
 Remember last time I was talking about [Rom Di Prisco for his amazing productions for the Need For Speed games](/music/23_otad/)? Well I kept digging, as I realized I had only scratched the surface of his creative realm! Today’s pick, a track from Unreal Tournament 3, originally released for PC in 2007.

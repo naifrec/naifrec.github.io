@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#30 - Aquarium
 description: our eyes aren't real
 img: https://f4.bcbits.com/img/a1936804871_16.jpg
-importance: 30
+author: Guillaume Sautière
+date: 2021-03-23 11:59:00-0400
 ---
 
 <div class="row">

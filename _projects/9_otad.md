@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#9 - Rage Racer
 description: jungle makes you drive faster, fact.
 img: https://img.discogs.com/8hKHqyErlMPIgewFcW-kzZ3iMdw=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4750987-1374785077-8804.jpeg.jpg
-importance: 9
+author: Guillaume Sautière
+date: 2021-03-02 11:59:00-0400
 ---
 
 Last week [I talked about](/music/8_otad/) Tetsukazu Nakanishi, and his productions for the PlayStation video game Ace Combat 3. Testukazu has produced many tracks for the Namco productions team, one of his most recent work was for Ace Combat 7: Skies Unknown, the latest entry in the series which I had the chance to play last year during the first lockdown.

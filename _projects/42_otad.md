@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#42 - Bowery Electric
 description: words are just noise...
 img: https://img.discogs.com/zMBFV7rw0NzRx2AjYf1PdDkFknY=/fit-in/509x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-323556-1292440813.jpeg.jpg
-importance: 42
+author: Guillaume Sautière
+date: 2021-04-04 11:59:00-0400
 ---
 
 <div class="row">

@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#1 - Ridge Racer 4
 description: futuristic sounds from Namco Sound team
 img: https://img.discogs.com/X6oTSUMkR06ddKgtOCcnB4VGDV8=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1528329-1544355670-7710.jpeg.jpg
-importance: 1
+author: Guillaume Sautière
+date: 2021-02-22 11:59:00-0400
 ---
 
 Welcome to a series of articles which I will try to entertain at a daily rate, to hopefully train my pen and in the long run build a detailed playlist of tracks I vibed with one way or another. The main idea is to present one track each day, how I came across it, who produced it and add some trivia if any, without any particular focus on a genre or era.

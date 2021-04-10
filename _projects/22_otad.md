@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#22 - Slow Gabber
 description: hardcore, yet gourmet
 img: https://f4.bcbits.com/img/a3504580860_16.jpg
-importance: 22
+author: Guillaume Sautière
+date: 2021-03-15 11:59:00-0400
 ---
 
 Today was the first day in a year I went to the office, as the work from home order was given on the 13th of March 2020. Unintentionally celebrating the first year anniversary of working from home by going to the office, what are the odds. It was quite an odd experience, as the office was completely empty, it felt a bit surreal. But, to my surprise and a bit more on topic, on my desk was sitting a package I had received all the way back in December… which looked a lot like a record!

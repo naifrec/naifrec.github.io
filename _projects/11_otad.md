@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#11 - high tone
 description: jungley dub
 img: https://img.discogs.com/MU90yumnfHTWlt91s3Ri2rIMarQ=/fit-in/560x568/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-177487-1263468726.jpeg.jpg
-importance: 11
+author: Guillaume Sautière
+date: 2021-03-04 11:59:00-0400
 ---
 
 Yesterday I played High Tone - Opus Incertum (2000), an album from my teenage years, back when I was adding frantically any video I liked to my “favorites” on YouTube, back when YouTube had not become what it is today. There were no rules, no structures, no big channels, certainly no YouTubers. Random people were uploading 98kbps mp3 rips of their favorite tracks, which at the time you could rate on a scale from one star to five. And I can vividly remember having the opening track [Delhi - Katmandou](https://youtu.be/2uz73vtiFbc) in there, although the original video was deleted. Unfortunately, my “favorites” playlist is an absolute graveyard, it is a great testament to the short life expectancy of content online.

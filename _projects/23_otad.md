@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: OTAD#23 - Crying Acid
 description: PSX flava in ya ear
 img: https://upload.wikimedia.org/wikipedia/en/e/e2/NFS_High_Stakes_box.jpg
-importance: 23
+author: Guillaume Sautière
+date: 2021-03-16 11:59:00-0400
 ---
 
 It’s been a while [since I shared a PSX original creation](/music/9_otad/)! A franchise which shined a blinding light in terms of sound quality is Need For Speed. Electronic Arts had an amazing producer - a living legend - at the music department: [Rom Di Prisco](http://www.romdiprisco.com/bio.html). Rom Di Prisco’s resume speaks for itself, having worked for the most prestigious game development studios including Rockstar, Sega or Atari, and worked on game franchises like Fortnite, Gears of War, Mass Effect, Unreal Tournament, and SSX!
