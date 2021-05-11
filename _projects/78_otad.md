@@ -6,7 +6,7 @@ img: https://img.discogs.com/oolbiGez4OiW9VQY5NgBr1RGpW0=/fit-in/600x600/filters
 date: 2021-05-10 05:59:00-0400
 ---
 
-I will be dedicating this week to Point Blank, picking from the best tracks that we have played there throughout the years. I will try to keep it chronological to outline the progression in genres that operated throughout just over 5 years of existence.
+I will be dedicating this week to [Point Blank](/music/76_otad/), as a last goodbye, picking from the best tracks that we have played there throughout the years. I will try to keep it chronological to outline the progression in genres that operated throughout just over 5 years of existence.
 
 <div align="center">
     <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/187172977&color=%23fcd4d4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/silence-science" title="Silence Science" target="_blank" style="color: #cccccc; text-decoration: none;">Silence Science</a> · <a href="https://soundcloud.com/silence-science/dj-set-skuat-31122014" title="Z.point dj set @Skuat - 12/2014" target="_blank" style="color: #cccccc; text-decoration: none;">Z.point dj set @Skuat - 12/2014</a></div>
