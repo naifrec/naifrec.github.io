@@ -3,7 +3,7 @@ layout: post
 title: OTAD#87 - Luomo
 description: sheer class
 img: https://f4.bcbits.com/img/a3954323806_16.jpg
-date: 2021-05-18 05:59:00-0400
+date: 2021-05-19 05:59:00-0400
 ---
 
 Today I went back to one of the few albums which work as blackholes on me, hard to escape their gravity field and find myself listening to them again and again, sometimes at the detriment of looking for new music. I had teased waaaay back in [our ambient sunday on Vladislav Delay - Entain](https://naifrec.github.io/music/28_otad/) (another blackhole...) that he had music under a different moniker, Luomo. I present to you his first album under this name: Vocalcity, released in 2000 on Force Tracks.
