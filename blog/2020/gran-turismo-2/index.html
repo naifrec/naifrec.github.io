@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>Guillaume Sautière | gran turismo 2, a data analysis</title>
+<meta name="description" content="About, contact, publications and blog of Guillaume Sautière.
+">
+
+<!-- Bootstrap & MDB -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.17.0/css/mdb.min.css" integrity="sha256-/SwJ2GDcEt5382i8zqDwl36VJGECxEoIcBIuoLmLR4g=" crossorigin="anonymous" />
+
+<!-- Fonts & Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"  integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ=" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
+
+<!-- Styles -->
+<link rel="shortcut icon" href="/assets/img/favicon.ico">
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<link rel="canonical" href="/blog/2020/gran-turismo-2/">
+
+<!-- Open Graph -->
+
+
+  </head>
+
+  <body class="fixed-top-nav ">
+
+    <!-- Header -->
+
+    <header>
+
+    <!-- Nav Bar -->
+    <nav id="navbar" class="navbar navbar-light bg-white navbar-expand-sm fixed-top">
+    <div class="container">
+      
+      
+      
+      
+      
+      <a class="navbar-brand title font-weight-lighter" href="/">
+       <span class="font-weight-bold">Guillaume</span>   Sautière
+      </a>
+      
+      <!-- Navbar Toogle -->
+      <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar top-bar"></span>
+        <span class="icon-bar middle-bar"></span>
+        <span class="icon-bar bottom-bar"></span>
+      </button>
+      <div class="collapse navbar-collapse text-right" id="navbarNav">
+        <ul class="navbar-nav ml-auto flex-nowrap">
+          <!-- About -->
+          <li class="nav-item ">
+            <a class="nav-link" href="/">
+              about
+              
+            </a>
+          </li>
+          
+          <!-- Blog -->
+          <li class="nav-item active">
+            <a class="nav-link" href="/blog/">
+              blog
+              
+            </a>
+          </li>
+          
+          <!-- Other pages -->
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/music/index.html">
+                music
+                
+              </a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/publications/">
+                publications
+                
+              </a>
+          </li>
+          
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+</header>
+
+
+    <!-- Content -->
+
+    <div class="container mt-5">
+      
+
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">gran turismo 2, a data analysis</h1>
+    <p class="post-description">visualizing some data about one of the pillars of the psx</p>
+    <p class="post-meta">October 10, 2020</p>
+  </header>
+
+  <article class="post-content">
+    <p>As mentionned in <a href="../../2019/glimpses-of-a-90s-child-musical-journey">my post on my musical influences</a>, I grew up with the PlayStation. My father offered me the PSX in 1997, I was 4 years old. I think he made this gift to me, but really he was low-key buying it for him. He bought it with Tekken 2, and we also had the demo disc. I remember the latter vividly, it was so awesome, intriguing, and even a bit scary. When going back to it recently, I realized how acid and futuristic they made the menus look. The intro music is <a href="https://youtu.be/lPhFsdgI958?t=14">pure acid techno goodness for your ears</a>. The tech demo is where it got a bit scary, I distincly remember watching the T-Rex walking with the ominous music playing and being absolutely speechless, my heart racing.</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/YCtZIlolG6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+    </div>
+</div>
+
+<div class="caption">
+    T-Rex tech demo on PlayStation 1 demo one disc, 1997
+</div>
+
+<p>In 1998 my father expanded our video game library, adding Gran Turismo and Colin McRae Rally to the collection. I sucked hard at Colin McRae, so I sticked to Gran Turismo which was way more forgiving to a 5 years old. I remember playing the arcade mode, as I could not navigate the simulation mode just yet. I would play Clubman Stage Route 5, with the absolutely amazing Chevrolet Corvette Stingray ‘67. It was such a powerful car. I loved playing it specifically on this track, as the night model of the car would have the opened headlights. I sometimes raced with my father, and would win each time I’d play this car… to this day I still don’t know if he was letting me win or if my victories were legit.</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/c-fW0xH4lgg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+    </div>
+</div>
+
+<div class="caption">
+    Chevrolet Corvette Stingray in arcade mode on Clubman Stage Route 5, Gran Turismo 1
+</div>
+
+<p>When I moved to Normandy in 1999, I spent a lot more time playing with my cousin Pierre. We spent most of our time outside of school together, playing an array of awesome video games (Crash Bandicoot Warped, Crash Team Racing, Syphon Filter, and many others). We eventually started playing Gran Turismo 2, and I think it is one of the games we invested most time on. It was so innovative for its time. Frankly even by today’s standards, a car list just shy of 600 cars is baffling. There was also so much to do: special races with different requirements (muscle car cup, cup for each drivetrain, GT300 and 500 series), endurance events, rally events, national and world championships, and then a myriad of manufacturer events…</p>
+
+<p>One of the many highlights of this release is the soundtrack. While researching this game, I realized us Europeans were blessed with the best (change my mind) version of the soundtrack, with the likes of <a href="https://youtu.be/Nh7oGo5sn2o">Fatboy Slim</a> and <a href="https://youtu.be/A4ZuS7ebwTA">Propellerhead</a>. By far my favorite track while racing was the one featured below by Grooverider, <a href="https://en.wikipedia.org/wiki/Grooverider">considered an originator</a> of the UK dnb scene. The mix gives into that amazing ambient drum’n’bass genre, which was living its golden era at the time.</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/rTG1YWbt5d0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+    </div>
+</div>
+
+<div class="caption">
+    Everything But The Girl - Blame (Grooverider Jeep Mix)
+</div>
+
+<hr />
+
+<p>Back to the actual game, I recently went back at it. I installed ePSXe (a PSX emulator) on my desktop PC, tuned it so I could play the game in widescreen mode, downloaded the ROM and jumped straight back at it. And suffice to say the game still holds to this day, I am having tons of fun. I came to realize the depth of gameplay, where tuning your car can make the worst car a worthy opponent. Back when we were 8, me and my cousin, we had no clue what we were doing. We were just buying the 4 upgrades for that turbo and brought that horsepower number as high as possible, to hopefully win against the AI by being faster on the straights. Or, after grinding for some cash on that Red Rock Valley race which would win you the TVR Speed 12 worth 500,000 credits, we would buy the Escudo Pikes Peak and win by just pressing on the accelerator and nudging the car in the right direction.</p>
+
+<p>Being now a <a href="https://twitter.com/MediumWilly/status/1311070574177779712">30 years old man</a> and a licensed driver with some knowledge of car mechanics and physics, I could better navigate the car tuning. In fact, I delved into it in details out of curiosity. I subscribed to an amazing YouTube channel called <a href="https://www.youtube.com/user/viperconcept">viperconcept</a> which has an endless number of tutorials on racing related topic, including how to setup <a href="https://youtu.be/djfi7F31jyM">suspensions</a> and <a href="https://youtu.be/8HXhUd5pZlM">Limited Slip Differential</a> (LSD, kek). And while viperconcept shows the effect of tuning his cars in more recent sim racing games, what amazed me is that most of his advices still held true in GT2! I developed my own strategy at tuning. First buy the fully customizable gear, soft tyres and fully customizable suspensions. Then lower the car close to its minimum height to avoid weight transfer / roll, stiffen the suspensions to make the car more nervous, put 1 to 2 degrees of negative camber then tune the gear ratios (using the automatic slider) so that you max out exactly at the end of the longest straight. One of the many learnings I got out of viperconcept is: <em>tune the suspensions to the car, the dampeners to the track</em>. Super smooth track like High Speed Ring, low dampening, very rough track like Grindelwald or Seattle, high dampening. If you feel like the gear shifts are too slow, buy an improved clutch, and off you go.</p>
+
+<p>This time around, I challenged myself not to use overpowered cars like I used to as a kid, crossed off the Escudo Pikes Peak entirely, and it made the game quite exciting and frankly not so easy at times. However, as a more observant adult, I started notifying some (mildly annoying) patterns. My main criticism to this game is how skewed towards Japanese cars it actually is. I know this is a bit ridiculous to blame Polyphony Digital, a Japanese company, for focusing on Japanese cars, but let’s say that I feel like they could have tried a bit harder at making manufacturers from other countries, especially European ones, less gimmicky / we put you there so you cannot complain there was no european cars.</p>
+
+<hr />
+
+<p>As I wanted to back up my claim with data, I went through the effort of scraping the car list from <a href="https://gran-turismo.fandom.com/wiki/Gran_Turismo_2/Car_List">GT wiki website</a>, clean it up and make it usable for data analysis. I hereby present you <a href="https://github.com/naifrec/gt-scrape">GT scrape</a>, a small python project I built which uses beautifulsoup for scraping, a lot of regex magic for cleaning up, and finally pandas to process and analyze data. I am hosting <a href="https://www.dropbox.com/sh/aghqvta3wl0adri/AABQc85oMTnrTcDpycBZzsg4a?dl=0">the cleaned up data on dropbox</a> if you want to have a go at it yourself. It is easy to play with, if you want some examples of usage, click on “show code” throughout this article! For now, using this data, we are going to address 4 of my claims:</p>
+<ol>
+  <li>most cars are Japanese</li>
+  <li>most prize cars are Japenese</li>
+  <li>most of the best cars are Japanese (and we will take the time to define what “best” means)</li>
+  <li>most cars are from the 90’s</li>
+</ol>
+
+<p>For the first two claim, I made the following figure, <a href="https://github.com/naifrec/gt-scrape/blob/main/gt/plots/car_distribution.py">using this code</a>. It shows, for each country of origin, the number of available cars in the game (in pink), and within them the subset of cars that can be won as prize during race events (in brown). Note that I used a log-scale on the x-axis, otherwise it would have been impossible to see that you can actually win at least one car from each country.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0" style="text-align: center;">
+        <img class="img-fluid rounded" src="/assets/img/distribution-of-cars-log.png" width="65%" />
+    </div>
+</div>
+
+<p><button type="button" class="collapsible" id="percentage">Show Code</button></p>
+<div class="code-block" id="percentagedata">
+  <p>We can try and summarize these statistics, let’s see how to compute the percentage of cars per country using the following code snippet:</p>
+
+  <figure class="highlight"><pre><code class="language-python" data-lang="python">  <span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="n">pd</span>
+
+  <span class="kn">from</span> <span class="nn">gt.paths</span> <span class="kn">import</span> <span class="n">DATA_DIR</span>
+
+
+  <span class="c1"># load the CSV data in a pandas DataFrame
+</span>  <span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="p">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">DATA_DIR</span> <span class="o">/</span> <span class="s">'cars-clean-v2.csv'</span><span class="p">,</span> <span class="n">index_col</span><span class="o">=</span><span class="mi">0</span><span class="p">)</span>
+  <span class="c1"># count the number of car per country
+</span>  <span class="n">data_cars</span> <span class="o">=</span> <span class="n">df</span><span class="p">[</span><span class="s">'Country'</span><span class="p">].</span><span class="n">value_counts</span><span class="p">().</span><span class="n">reset_index</span><span class="p">().</span><span class="n">rename</span><span class="p">(</span>
+      <span class="p">{</span><span class="s">'index'</span><span class="p">:</span> <span class="s">'Manufacturing Country'</span><span class="p">,</span>
+       <span class="s">'Country'</span><span class="p">:</span> <span class="s">'# cars featured'</span><span class="p">,</span>
+      <span class="p">},</span>
+      <span class="n">axis</span><span class="o">=</span><span class="mi">1</span>
+  <span class="p">)</span>
+  <span class="c1"># count the number of prize car per country
+</span>  <span class="n">data_prize_cars</span> <span class="o">=</span> <span class="n">df</span><span class="p">[</span><span class="n">df</span><span class="p">[</span><span class="s">'IsPrizeCar'</span><span class="p">]][</span><span class="s">'Country'</span><span class="p">].</span><span class="n">value_counts</span><span class="p">().</span><span class="n">reset_index</span><span class="p">().</span><span class="n">rename</span><span class="p">(</span>
+      <span class="p">{</span><span class="s">'index'</span><span class="p">:</span> <span class="s">'Manufacturing Country'</span><span class="p">,</span>
+       <span class="s">'Country'</span><span class="p">:</span> <span class="s">'# cars featured'</span><span class="p">,</span>
+      <span class="p">},</span>
+      <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span>
+  <span class="p">)</span>
+  <span class="c1"># print percentages of cars per country
+</span>  <span class="k">print</span><span class="p">(</span><span class="mi">100</span> <span class="o">*</span> <span class="n">data_cars</span><span class="p">[</span><span class="s">'# cars featured'</span><span class="p">]</span> <span class="o">/</span> <span class="n">data_cars</span><span class="p">[</span><span class="s">'# cars featured'</span><span class="p">].</span><span class="nb">sum</span><span class="p">())</span>
+  <span class="c1"># print percentages of prize cars per country
+</span>  <span class="k">print</span><span class="p">(</span><span class="mi">100</span> <span class="o">*</span> <span class="n">data_prize_cars</span><span class="p">[</span><span class="s">'# cars featured'</span><span class="p">]</span> <span class="o">/</span> <span class="n">data_prize_cars</span><span class="p">[</span><span class="s">'# cars featured'</span><span class="p">].</span><span class="nb">sum</span><span class="p">())</span>
+
+  </code></pre></figure>
+
+</div>
+
+<p>In summary, <strong>7 cars out of 10 in the game are Japanese</strong>, and if you only look at <strong>prize cars</strong>, then <strong>8 out of 10</strong> are Japanese! I wonder how many Skylines are within these hehe, an exercise left to the reader.</p>
+
+<hr />
+
+<p>Now let’s tackle my third claim that <em>most of the best cars are Japanese</em>. It is of course impossible to find one single metric which can define how great a car is, as none will reflect how well the car is tuned or handles. One car could have the highest power, yet suck because too heavy or tuned poorly, as in too soft suspensions, too long gear ratios, etc. For this exercise though, we will use one metric which is a good predictor of a car’s performance (assuming handling and tuning): power to weight ratio (kg per brake horse power). The lower this number is, the more powerful is the car, as it literally counts how much mass does each horse power have to move, lower meaning it will be easier to get that car moving. You can find <a href="https://github.com/naifrec/gt-scrape/blob/main/gt/plots/top_cars.py">here</a> the code used to obtain the table and images below.</p>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th style="text-align: right"> </th>
+      <th style="text-align: left">Name</th>
+      <th style="text-align: right">Power (bhp)</th>
+      <th style="text-align: right">Weight (kg)</th>
+      <th style="text-align: right">Power/Weight Ratio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: right">1</td>
+      <td style="text-align: left">Suzuki Escudo Pikes Peak Version</td>
+      <td style="text-align: right">981</td>
+      <td style="text-align: right">800</td>
+      <td style="text-align: right">0.82</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">2</td>
+      <td style="text-align: left">Nissan HKS Drag 180SX</td>
+      <td style="text-align: right">1011</td>
+      <td style="text-align: right">980</td>
+      <td style="text-align: right">0.97</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">3</td>
+      <td style="text-align: left">Suzuki Cultus Pikes Peak Version</td>
+      <td style="text-align: right">788</td>
+      <td style="text-align: right">873</td>
+      <td style="text-align: right">1.11</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">4</td>
+      <td style="text-align: left">Toyota GT-ONE Race Car (TS020) ‘99</td>
+      <td style="text-align: right">765</td>
+      <td style="text-align: right">900</td>
+      <td style="text-align: right">1.18</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">5</td>
+      <td style="text-align: left">TVR Speed 12</td>
+      <td style="text-align: right">807</td>
+      <td style="text-align: right">950</td>
+      <td style="text-align: right">1.18</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">6</td>
+      <td style="text-align: left">Nissan HKS R33 Drag GT-R</td>
+      <td style="text-align: right">1011</td>
+      <td style="text-align: right">1280</td>
+      <td style="text-align: right">1.27</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">7</td>
+      <td style="text-align: left">Toyota GT-ONE Race Car (TS020) ‘98</td>
+      <td style="text-align: right">672</td>
+      <td style="text-align: right">900</td>
+      <td style="text-align: right">1.34</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">8</td>
+      <td style="text-align: left">Venturi Atlantique 600 LM</td>
+      <td style="text-align: right">705</td>
+      <td style="text-align: right">960</td>
+      <td style="text-align: right">1.36</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">9</td>
+      <td style="text-align: left">TVR Cerbera LM Edition</td>
+      <td style="text-align: right">624</td>
+      <td style="text-align: right">890</td>
+      <td style="text-align: right">1.43</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">10</td>
+      <td style="text-align: left">Honda CR-X del Sol LM Edition</td>
+      <td style="text-align: right">617</td>
+      <td style="text-align: right">890</td>
+      <td style="text-align: right">1.44</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">11</td>
+      <td style="text-align: left">Lotus Elise GT1</td>
+      <td style="text-align: right">613</td>
+      <td style="text-align: right">900</td>
+      <td style="text-align: right">1.47</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">12</td>
+      <td style="text-align: left">Toyota GT-ONE Road Car (TS020) ‘98</td>
+      <td style="text-align: right">593</td>
+      <td style="text-align: right">900</td>
+      <td style="text-align: right">1.52</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0" style="text-align: center;">
+        <img class="img-fluid rounded" src="/assets/img/top12.png" />
+    </div>
+</div>
+
+<p>First of all, the limitation of picking a single metric to define how good a car is should jump to the GT amateur’s eyes, because god knows how terrible these drag cars are. They handle like a potatoe, and are only remnants of an abandonned drag mode.</p>
+
+<p>If we forget about these two cars for a moment however, the rest of the ranking seems quite truthful. Unsurprisingly we find the <strong>Suzuki Escudo Pikes Peak at the top</strong>, with 0.82 kg per bhp (far better than any other cars, which makes it so overpowered). <strong>Only 4 cars out of the top 12 are non-Japanese</strong>: the British TVR Speed 12, TVR Cerbera LM Edition and Lotus Elise GT1, and the French Venturi Atlantique 600 LM. I lol’ed at the fact that the Toyota GT-One appears 3 times in the top 12, did we really need both the ‘98 and the ‘99 race car models?</p>
+
+<p>Finally, interesting to note that it may be worth grinding for the gold in License B early in game, as you will be rewarded the 10th best car in the game, the Honda CR-X del Sol LM Edition.</p>
+
+<hr />
+
+<p>Finally, let’s visualize my last claim: <em>most cars are from the 90’s</em>. While this is both obvious, and also an expected feature (nobody wants to race with only cars from the 60’s), I found it interesting to see it drawn on a timeline. Note that many approximations had to be made, a lot of cars in the games did not have a manufacturing date, so I implemented an automated way to get a year from their in-game descriptions, which is not without bugs (see logic <a href="https://github.com/naifrec/gt-scrape/blob/main/gt/table/scrape.py#L118-L136">here</a>). You can find the code used to create the timeline below <a href="https://github.com/naifrec/gt-scrape/blob/main/gt/plots/car_timeline.py">at this location</a>.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0" style="text-align: center;">
+        <img class="img-fluid rounded" src="/assets/img/timeline-of-cars.png" width="80%" />
+    </div>
+</div>
+
+<p><button type="button" class="collapsible" id="timeline">Show Code</button></p>
+<div class="code-block" id="timelinedata">
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>We can further summarize this timeline by computing the percentage of cars released in the 90's using the following code snippet:
+</code></pre></div>  </div>
+
+  <figure class="highlight"><pre><code class="language-python" data-lang="python">    <span class="n">df</span> <span class="o">=</span> <span class="n">df</span><span class="p">[</span><span class="o">~</span><span class="n">df</span><span class="p">[</span><span class="s">'Date'</span><span class="p">].</span><span class="n">isna</span><span class="p">()]</span>
+    <span class="n">df</span><span class="p">[</span><span class="s">'Date'</span><span class="p">]</span> <span class="o">=</span> <span class="n">df</span><span class="p">[</span><span class="s">'Date'</span><span class="p">].</span><span class="n">astype</span><span class="p">(</span><span class="n">np</span><span class="p">.</span><span class="n">int32</span><span class="p">)</span>
+    <span class="k">print</span><span class="p">(</span><span class="mi">100</span> <span class="o">*</span> <span class="p">((</span><span class="n">df</span><span class="p">[</span><span class="s">'Date'</span><span class="p">]</span> <span class="o">&gt;=</span> <span class="mi">1990</span><span class="p">).</span><span class="nb">sum</span><span class="p">()</span> <span class="o">/</span> <span class="nb">len</span><span class="p">(</span><span class="n">df</span><span class="p">)))</span>
+    </code></pre></figure>
+
+</div>
+
+<p>In summary, <strong>9 cars out of 10 are from the 90’s</strong>. The GT amateur would have a good grasp on this limitation, as for some race events in the games, this leaves for very few options (most notably the muscle car event, where you probably have to pick from 4-5 cars max).</p>
+
+<hr />
+
+<p>This concludes my quick go at scraping, cleaning and analyzing the data from Gran Turismo 2. I hope this article was somewhat entertaining, and that you can yourself make use of the data I extracted from the Gran Turismo Wiki website to show some cool facts about the game! Not to leave you without one last track, here is one of my favorite remix from the Gran Turismo 2 soundtrack, with some crazy drum patterns… enjoy!</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 video" align="center">
+        <iframe src="https://www.youtube.com/embed/suB4gLaR6wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+    </div>
+</div>
+
+<div class="caption">
+    Gran Turismo 2 Extended Score - Groove - Blowing Away
+</div>
+<!-- Taken from https://chrisphillips-cminion.github.io/jekyll/2019/07/12/CollapseInJekyll.html -->
+<!-- Start collapsible.html -->
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var content = document.getElementById(this.id+"data");
+        if (content.style.display === "block") {
+            content.style.display = "none";
+        } else {
+            content.style.display = "block";
+        }
+        });
+}
+</script>
+
+<!-- End collapsible.html -->
+
+  </article>
+
+  
+
+</div>
+
+    </div>
+
+    <!-- Footer -->
+
+    
+<footer class="fixed-bottom">
+  <div class="container mt-0">
+    &copy; Copyright 2021 Guillaume Sautière.
+    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+
+    
+    Last updated: November 08, 2021.
+    
+  </div>
+</footer>
+
+
+
+  </body>
+
+  <!-- Load Core and Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.4.0/umd/popper.min.js" integrity="sha256-OH05DFHUWzr725HmuHo3pnuvUUn+TJuj8/Qz9xytFEw=" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.17.0/js/mdb.min.js"  integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+<!-- Load Common JS -->
+<script src="/assets/js/common.js"></script>
+
+<!-- Code Syntax Highlighting -->
+<link rel="stylesheet" href="https://gitcdn.link/repo/jwarby/jekyll-pygments-themes/master/github.css" />
+
+
+<!-- Load KaTeX -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/katex.min.css" integrity="sha256-V8SV2MO1FUb63Bwht5Wx9x6PVHNa02gv8BgH/uH3ung=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/katex.min.js" integrity="sha256-F/Xda58SPdcUCr+xhSGz9MA2zQBPb0ASEYKohl8UCHc=" crossorigin="anonymous"></script>
+<script src="/assets/js/katex.js"></script>
+
+
+
+<!-- Load Mansory & imagesLoaded -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js" integrity="" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+
+<!-- Project Cards Layout -->
+<script type="text/javascript">
+  // Init Masonry
+  var $grid = $('.grid').masonry({
+    gutter: 10,
+    horizontalOrder: true,
+    itemSelector: '.grid-item',
+  });
+  // layout Masonry after each image loads
+  $grid.imagesLoaded().progress( function() {
+    $grid.masonry('layout');
+  });
+</script>
+
+
+
+
+
+
+
+</html>
